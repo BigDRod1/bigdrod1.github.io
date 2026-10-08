@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post prose" itemscope itemtype="https://schema.org/Article">
+  <meta itemprop="headline" content="{{ page.title }}">
+  <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+  <meta itemprop="author" content="{{ page.author | default: site.author.name }}">
+
+  {{ content }}
+
+  {% if page.downloads %}
+  <section class="downloads" aria-labelledby="downloads-heading">
+    <h2 id="downloads-heading">Downloads</h2>
+    <p>All data, code, and results for this article:</p>
+    <ul class="downloads__list">
+      {% for item in page.downloads %}
+      <li><a href="{{ item.href | relative_url }}">{{ item.label }}</a>{% if item.note %} <span class="downloads__note">{{ item.note }}</span>{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</article>
