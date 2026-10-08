@@ -1,0 +1,53 @@
+# NotAFinanceBro — GitHub Pages user site (served from main root)
+title: NotAFinanceBro
+tagline: Rethinking what financial media tells you.
+description: >-
+  NotAFinanceBro publishes data-driven research that questions the conventions
+  of mainstream financial media.
+url: "https://bigdrod1.github.io"
+baseurl: ""
+author:
+  name: Diego Rodriguez
+  twitter: NotAFinance_Bro
+  twitter_url: "https://x.com/NotAFinance_Bro"
+
+# Theme colors (also defined in CSS)
+brand:
+  amber: "#F5A623"
+  navy: "#0B1F2A"
+  forest: "#0D2B24"
+  cream: "#F5F0E6"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+permalink: /articles/:title/
+
+# Do not publish future-dated posts unless flipped; unpublished posts use published: false
+future: false
+timezone: America/New_York
+
+# Exclude build/tooling files from the published site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - .gitignore
+  - key_findings.md
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Diego Rodriguez
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page

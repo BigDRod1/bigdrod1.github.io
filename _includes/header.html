@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-brand" href="{{ '/' | relative_url }}">
+      <img class="site-brand__logo" src="{{ '/assets/brand/logo.png' | relative_url }}" width="44" height="44" alt="NotAFinanceBro logo">
+      <span class="site-brand__name"><span class="accent">NotA</span>FinanceBro</span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Research</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
+      <a href="{{ site.author.twitter_url }}" rel="noopener noreferrer" target="_blank">X</a>
+    </nav>
+  </div>
+</header>

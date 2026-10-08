@@ -1,0 +1,36 @@
+{% assign page_title = page.title | default: site.title %}
+{% if page.url == '/' %}
+  {% assign full_title = site.title | append: " · " | append: site.tagline %}
+  {% assign page_title = site.title %}
+{% elsif page.title %}
+  {% assign full_title = page.title | append: " · " | append: site.title %}
+{% else %}
+  {% assign full_title = site.title | append: " · " | append: site.tagline %}
+{% endif %}
+{% assign page_desc = page.description | default: page.summary | default: site.description %}
+{% assign og_image = page.image | default: "/assets/brand/banner.png" %}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ full_title }}</title>
+<meta name="description" content="{{ page_desc | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="icon" type="image/png" href="{{ '/assets/favicon.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/favicon.png' | relative_url }}">
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:title" content="{{ page_title | escape }}">
+<meta property="og:description" content="{{ page_desc | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ og_image | absolute_url }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@{{ site.author.twitter }}">
+<meta name="twitter:creator" content="@{{ site.author.twitter }}">
+<meta name="twitter:title" content="{{ page_title | escape }}">
+<meta name="twitter:description" content="{{ page_desc | escape }}">
+<meta name="twitter:image" content="{{ og_image | absolute_url }}">
+<meta name="theme-color" content="#0B1F2A">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400;1,7..72,600&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">

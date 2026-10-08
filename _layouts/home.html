@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<section class="hero" aria-label="NotAFinanceBro">
+  <div class="hero__media">
+    <img
+      class="hero__banner"
+      src="{{ '/assets/brand/banner.png' | relative_url }}"
+      width="1500"
+      height="500"
+      alt="NotAFinanceBro: Rethinking what financial media tells you"
+      fetchpriority="high"
+    >
+  </div>
+</section>
+
+<section class="home-intro prose">
+  <p class="lede">{{ site.description }}</p>
+</section>
+
+<section class="article-index" aria-labelledby="articles-heading">
+  <h2 id="articles-heading" class="section-title">Articles</h2>
+  {% assign published_posts = site.posts %}
+  {% if published_posts.size > 0 %}
+  <ul class="article-list">
+    {% for post in published_posts %}
+    <li class="article-list__item">
+      <a class="article-list__title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <time class="article-list__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+      {% if post.summary %}
+      <p class="article-list__summary">{{ post.summary }}</p>
+      {% elsif post.excerpt %}
+      <p class="article-list__summary">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="article-list__empty">New research will appear here when published.</p>
+  {% endif %}
+</section>

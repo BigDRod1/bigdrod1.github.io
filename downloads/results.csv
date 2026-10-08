@@ -1,0 +1,1740 @@
+section,item,method,metric,value
+A_normality,^GSPC,daily,skew,-0.11040176051393534
+A_normality,^GSPC,daily,exkurt,17.27974217494917
+A_normality,^GSPC,daily,jb,308630.181735681
+A_normality,^GSPC,daily,jb_p,0.0
+A_normality,^GSPC,monthly,skew,0.10634841232566106
+A_normality,^GSPC,monthly,exkurt,7.809703698406585
+A_normality,^GSPC,monthly,jb,3011.1444486086975
+A_normality,^GSPC,monthly,jb_p,0.0
+A_normality,SPY,daily,skew,-0.01069513095729452
+A_normality,SPY,daily,exkurt,11.852586934349553
+A_normality,SPY,daily,jb,49602.65594948702
+A_normality,SPY,daily,jb_p,0.0
+A_normality,SPY,monthly,skew,-0.5534722440013
+A_normality,SPY,monthly,exkurt,0.9605717521882338
+A_normality,SPY,monthly,jb,36.06890620084953
+A_normality,SPY,monthly,jb_p,1.4714195918384599e-08
+A_normality,QQQ,daily,skew,0.22689064334310588
+A_normality,QQQ,daily,exkurt,7.131596189936332
+A_normality,QQQ,daily,jb,14749.442173062482
+A_normality,QQQ,daily,jb_p,0.0
+A_normality,QQQ,monthly,skew,-0.38693111680518893
+A_normality,QQQ,monthly,exkurt,1.613475664279603
+A_normality,QQQ,monthly,jb,44.02978904267555
+A_normality,QQQ,monthly,jb_p,2.7482281875721633e-10
+A_normality,IWM,daily,skew,-0.25570252089571327
+A_normality,IWM,daily,exkurt,5.3718929237265804
+A_normality,IWM,daily,jb,8036.780161407938
+A_normality,IWM,daily,jb_p,0.0
+A_normality,IWM,monthly,skew,-0.3809677683627202
+A_normality,IWM,monthly,exkurt,0.859140435714806
+A_normality,IWM,monthly,jb,17.362462663669938
+A_normality,IWM,monthly,jb_p,0.00016974193022428372
+A_normality,EFA,daily,skew,-0.025496225780396106
+A_normality,EFA,daily,exkurt,13.081893309217872
+A_normality,EFA,daily,jb,44988.04180556127
+A_normality,EFA,daily,jb_p,0.0
+A_normality,EFA,monthly,skew,-0.5498429566487361
+A_normality,EFA,monthly,exkurt,1.5403874576470233
+A_normality,EFA,monthly,jb,44.92553712091365
+A_normality,EFA,monthly,jb_p,1.756077044909492e-10
+A_normality,EEM,daily,skew,0.47196896752451495
+A_normality,EEM,daily,exkurt,17.821121531958212
+A_normality,EEM,daily,jb,78333.64416327237
+A_normality,EEM,daily,jb_p,0.0
+A_normality,EEM,monthly,skew,-0.2887185417361874
+A_normality,EEM,monthly,exkurt,1.303532371943719
+A_normality,EEM,monthly,jb,23.79871227711994
+A_normality,EEM,monthly,jb_p,6.79477829500607e-06
+A_normality,TLT,daily,skew,0.05703086507550409
+A_normality,TLT,daily,exkurt,3.494344568422428
+A_normality,TLT,daily,jb,3097.1176676759674
+A_normality,TLT,daily,jb_p,0.0
+A_normality,TLT,monthly,skew,0.32214149542871406
+A_normality,TLT,monthly,exkurt,1.2719955664486173
+A_normality,TLT,monthly,jb,24.56630229492534
+A_normality,TLT,monthly,jb_p,4.629085861582785e-06
+A_normality,IEF,daily,skew,0.08258182313537023
+A_normality,IEF,daily,exkurt,2.5420568092985016
+A_normality,IEF,daily,jb,1644.2344579372364
+A_normality,IEF,daily,jb_p,0.0
+A_normality,IEF,monthly,skew,0.10241837581914712
+A_normality,IEF,monthly,exkurt,0.6564366246866529
+A_normality,IEF,monthly,jb,5.713811239375117
+A_normality,IEF,monthly,jb_p,0.05744624605239151
+A_normality,LQD,daily,skew,0.013113380364461219
+A_normality,LQD,daily,exkurt,57.85977949601966
+A_normality,LQD,daily,jb,848237.365145451
+A_normality,LQD,daily,jb_p,0.0
+A_normality,LQD,monthly,skew,0.12450245707671485
+A_normality,LQD,monthly,exkurt,5.9660217759871905
+A_normality,LQD,monthly,jb,430.8363162858131
+A_normality,LQD,monthly,jb_p,2.786651228869394e-94
+A_normality,HYG,daily,skew,0.7589401018175876
+A_normality,HYG,daily,exkurt,43.594187351532405
+A_normality,HYG,daily,jb,388400.2993966256
+A_normality,HYG,daily,jb_p,0.0
+A_normality,HYG,monthly,skew,0.3089418792463495
+A_normality,HYG,monthly,exkurt,7.741299354526491
+A_normality,HYG,monthly,jb,585.5046906770214
+A_normality,HYG,monthly,jb_p,7.232223773382641e-128
+A_normality,GLD,daily,skew,-0.3070924485220802
+A_normality,GLD,daily,exkurt,6.409534979392021
+A_normality,GLD,daily,jb,9499.376258633283
+A_normality,GLD,daily,jb_p,0.0
+A_normality,GLD,monthly,skew,0.002965750476476165
+A_normality,GLD,monthly,exkurt,0.18953492427887353
+A_normality,GLD,monthly,jb,0.39254881662240576
+A_normality,GLD,monthly,jb_p,0.821786698634978
+A_normality,VNQ,daily,skew,0.004828732988631118
+A_normality,VNQ,daily,exkurt,17.83131662713047
+A_normality,VNQ,daily,jb,73328.59002863686
+A_normality,VNQ,daily,jb_p,0.0
+A_normality,VNQ,monthly,skew,-0.6169399785675169
+A_normality,VNQ,monthly,exkurt,5.2647807813682075
+A_normality,VNQ,monthly,jb,321.6441406693194
+A_normality,VNQ,monthly,jb_p,1.4317338250842192e-70
+A_normality,DBC,daily,skew,-0.38630368384332237
+A_normality,DBC,daily,exkurt,2.951137755508608
+A_normality,DBC,daily,jb,2014.002975212467
+A_normality,DBC,daily,jb_p,0.0
+A_normality,DBC,monthly,skew,-0.561052510816184
+A_normality,DBC,monthly,exkurt,1.9458824828550751
+A_normality,DBC,monthly,jb,51.927410175572405
+A_normality,DBC,monthly,jb_p,5.297929204848511e-12
+A_normality,XLK,daily,skew,0.2915605460996228
+A_normality,XLK,daily,exkurt,7.264646370801607
+A_normality,XLK,daily,jb,15456.499076381864
+A_normality,XLK,daily,jb_p,0.0
+A_normality,XLK,monthly,skew,-0.2328019743892272
+A_normality,XLK,monthly,exkurt,1.2986078159672276
+A_normality,XLK,monthly,jb,26.406473993228516
+A_normality,XLK,monthly,jb_p,1.8446204927538554e-06
+A_normality,XLF,daily,skew,0.31100014960441763
+A_normality,XLF,daily,exkurt,14.971783464295825
+A_normality,XLF,daily,jb,65341.48468192753
+A_normality,XLF,daily,jb_p,0.0
+A_normality,XLF,monthly,skew,-0.4586939570720606
+A_normality,XLF,monthly,exkurt,2.527977231374197
+A_normality,XLF,monthly,jb,100.34773885967623
+A_normality,XLF,monthly,jb_p,1.6209341454203206e-22
+A_normality,XLE,daily,skew,-0.27194656054918925
+A_normality,XLE,daily,exkurt,10.847331655984243
+A_normality,XLE,daily,jb,34326.48332058994
+A_normality,XLE,daily,jb_p,0.0
+A_normality,XLE,monthly,skew,0.038235137603108385
+A_normality,XLE,monthly,exkurt,2.9043416357915666
+A_normality,XLE,monthly,jb,117.11954156030785
+A_normality,XLE,monthly,jb_p,3.696704095595418e-26
+A_normality,XLV,daily,skew,-0.01997326532379404
+A_normality,XLV,daily,exkurt,8.699372407530701
+A_normality,XLV,daily,jb,22023.07671897323
+A_normality,XLV,daily,jb_p,0.0
+A_normality,XLV,monthly,skew,-0.304168013130694
+A_normality,XLV,monthly,exkurt,0.4965290146080772
+A_normality,XLV,monthly,jb,8.555516241832905
+A_normality,XLV,monthly,jb_p,0.013873730473843169
+A_normality,XLY,daily,skew,-0.16657848709234824
+A_normality,XLY,daily,exkurt,6.079362969960268
+A_normality,XLY,daily,jb,10787.267477781861
+A_normality,XLY,daily,jb_p,0.0
+A_normality,XLY,monthly,skew,0.00663786967732218
+A_normality,XLY,monthly,exkurt,0.9086940841152509
+A_normality,XLY,monthly,jb,11.459378924690357
+A_normality,XLY,monthly,jb_p,0.003248085729939674
+A_normality,XLP,daily,skew,-0.09015460809575175
+A_normality,XLP,daily,exkurt,7.637103715514286
+A_normality,XLP,daily,jb,16982.13859131502
+A_normality,XLP,daily,jb_p,0.0
+A_normality,XLP,monthly,skew,-0.5179720663196794
+A_normality,XLP,monthly,exkurt,0.8505145338942848
+A_normality,XLP,monthly,jb,24.92720365412514
+A_normality,XLP,monthly,jb_p,3.864795349271151e-06
+A_normality,XLU,daily,skew,0.18309739330541158
+A_normality,XLU,daily,exkurt,11.589033503917216
+A_normality,XLU,daily,jb,39121.9806874071
+A_normality,XLU,daily,jb_p,0.0
+A_normality,XLU,monthly,skew,-0.5156287345824914
+A_normality,XLU,monthly,exkurt,0.733674162615428
+A_normality,XLU,monthly,jb,22.224555206297456
+A_normality,XLU,monthly,jb_p,1.4927915070528823e-05
+A_normality,XLI,daily,skew,-0.1356113849469189
+A_normality,XLI,daily,exkurt,7.766210972873349
+A_normality,XLI,daily,jb,17572.790047831404
+A_normality,XLI,daily,jb_p,0.0
+A_normality,XLI,monthly,skew,-0.29365035713977017
+A_normality,XLI,monthly,exkurt,1.278529139789879
+A_normality,XLI,monthly,jb,27.46637960270585
+A_normality,XLI,monthly,jb_p,1.0858040328013034e-06
+A_normality,XLB,daily,skew,-0.0020661581713294604
+A_normality,XLB,daily,exkurt,6.569279084129622
+A_normality,XLB,daily,jb,12558.234425515393
+A_normality,XLB,daily,jb_p,0.0
+A_normality,XLB,monthly,skew,-0.02634791982472853
+A_normality,XLB,monthly,exkurt,1.1908187229123248
+A_normality,XLB,monthly,jb,19.71396189267426
+A_normality,XLB,monthly,jb_p,5.238024998663868e-05
+A_normality,AAPL,daily,skew,-0.3640389483764113
+A_normality,AAPL,daily,exkurt,18.73176929336177
+A_normality,AAPL,daily,jb,168983.93669456406
+A_normality,AAPL,daily,jb_p,0.0
+A_normality,AAPL,monthly,skew,-0.06617026883428745
+A_normality,AAPL,monthly,exkurt,1.381276728886255
+A_normality,AAPL,monthly,jb,44.04442672502263
+A_normality,AAPL,monthly,jb_p,2.728187767739648e-10
+A_normality,MSFT,daily,skew,-0.05920505327257338
+A_normality,MSFT,daily,exkurt,10.893355950114394
+A_normality,MSFT,daily,jb,50512.84505942627
+A_normality,MSFT,daily,jb_p,0.0
+A_normality,MSFT,monthly,skew,0.670856373426557
+A_normality,MSFT,monthly,exkurt,2.829262373682484
+A_normality,MSFT,monthly,jb,198.54960315262232
+A_normality,MSFT,monthly,jb_p,7.682480796880434e-44
+A_normality,AMZN,daily,skew,1.0682102840196765
+A_normality,AMZN,daily,exkurt,11.564138186178685
+A_normality,AMZN,daily,jb,42577.137430329865
+A_normality,AMZN,daily,jb_p,0.0
+A_normality,AMZN,monthly,skew,2.079883273023423
+A_normality,AMZN,monthly,exkurt,12.358773102077611
+A_normality,AMZN,monthly,jb,2493.9629778249646
+A_normality,AMZN,monthly,jb_p,0.0
+A_normality,JPM,daily,skew,0.44288746315348404
+A_normality,JPM,daily,exkurt,14.442040371936962
+A_normality,JPM,daily,jb,102314.57276632385
+A_normality,JPM,daily,jb_p,0.0
+A_normality,JPM,monthly,skew,-0.22997826073404115
+A_normality,JPM,monthly,exkurt,1.5866530493095423
+A_normality,JPM,monthly,jb,63.44989868718968
+A_normality,JPM,monthly,jb_p,1.6673607020584464e-14
+A_normality,XOM,daily,skew,0.006019681348347521
+A_normality,XOM,daily,exkurt,12.840243433385847
+A_normality,XOM,daily,jb,111934.34620550042
+A_normality,XOM,daily,jb_p,0.0
+A_normality,XOM,monthly,skew,0.34277581638915644
+A_normality,XOM,monthly,exkurt,2.4397435603256987
+A_normality,XOM,monthly,jb,207.65532636383517
+A_normality,XOM,monthly,jb_p,8.09503649783808e-46
+A_normality,JNJ,daily,skew,0.0940948247441859
+A_normality,JNJ,daily,exkurt,7.395878236654912
+A_normality,JNJ,daily,jb,37160.11692745299
+A_normality,JNJ,daily,jb_p,0.0
+A_normality,JNJ,monthly,skew,0.07106990279115112
+A_normality,JNJ,monthly,exkurt,0.3453029611126883
+A_normality,JNJ,monthly,jb,4.508490783521348
+A_normality,JNJ,monthly,jb_p,0.1049527120432492
+A_normality,KO,daily,skew,-0.057118758281388515
+A_normality,KO,daily,exkurt,12.854348113028554
+A_normality,KO,daily,jb,112189.15669709939
+A_normality,KO,daily,jb_p,0.0
+A_normality,KO,monthly,skew,-0.16506337723970615
+A_normality,KO,monthly,exkurt,2.230303102190345
+A_normality,KO,monthly,jb,164.35795112043664
+A_normality,KO,monthly,jb_p,2.042322800009827e-36
+A_normality,GE,daily,skew,0.1520629879766007
+A_normality,GE,daily,exkurt,8.144492054922857
+A_normality,GE,daily,jb,45097.20486013125
+A_normality,GE,daily,jb_p,0.0
+A_normality,GE,monthly,skew,0.2099578459818923
+A_normality,GE,monthly,exkurt,2.0705676793814582
+A_normality,GE,monthly,jb,144.32241040529485
+A_normality,GE,monthly,jb_p,4.5791700648693555e-32
+A_normality,IBM,daily,skew,-0.22600565971323183
+A_normality,IBM,daily,exkurt,13.551733800428025
+A_normality,IBM,daily,jb,124821.41124327629
+A_normality,IBM,daily,jb_p,0.0
+A_normality,IBM,monthly,skew,0.1814079372336255
+A_normality,IBM,monthly,exkurt,1.8675863607728118
+A_normality,IBM,monthly,jb,117.03095828329232
+A_normality,IBM,monthly,jb_p,3.8641173122363706e-26
+A_normality,PG,daily,skew,-0.8237593925836961
+A_normality,PG,daily,exkurt,35.23548082545667
+A_normality,PG,daily,jb,844744.3892483064
+A_normality,PG,daily,jb_p,0.0
+A_normality,PG,monthly,skew,-0.26698684763475544
+A_normality,PG,monthly,exkurt,2.9433359798961654
+A_normality,PG,monthly,jb,289.33013199524544
+A_normality,PG,monthly,jb_p,1.488538641259691e-63
+A_normality,WMT,daily,skew,0.20826180802178515
+A_normality,WMT,daily,exkurt,6.176773295507216
+A_normality,WMT,daily,jb,21773.970264083186
+A_normality,WMT,daily,jb_p,0.0
+A_normality,WMT,monthly,skew,0.9934263436226589
+A_normality,WMT,monthly,exkurt,7.893641278267424
+A_normality,WMT,monthly,jb,1791.7039330740445
+A_normality,WMT,monthly,jb_p,0.0
+A_normality,CVX,daily,skew,0.06373209303351374
+A_normality,CVX,daily,exkurt,12.103127765155875
+A_normality,CVX,daily,jb,99462.6147519701
+A_normality,CVX,daily,jb_p,0.0
+A_normality,CVX,monthly,skew,0.42899808199882294
+A_normality,CVX,monthly,exkurt,2.2304761541919778
+A_normality,CVX,monthly,jb,184.66152843660333
+A_normality,CVX,monthly,jb_p,7.966335452891318e-41
+A_normality,INTC,daily,skew,0.11352444671937238
+A_normality,INTC,daily,exkurt,7.423558199082272
+A_normality,INTC,daily,jb,26957.52676750203
+A_normality,INTC,daily,jb_p,0.0
+A_normality,INTC,monthly,skew,1.4293269621471745
+A_normality,INTC,monthly,exkurt,13.697853924911623
+A_normality,INTC,monthly,jb,4552.4221774650805
+A_normality,INTC,monthly,jb_p,0.0
+A_normality,CSCO,daily,skew,0.2507187697430216
+A_normality,CSCO,daily,exkurt,7.856493928168312
+A_normality,CSCO,daily,jb,23809.08891929249
+A_normality,CSCO,daily,jb_p,0.0
+A_normality,CSCO,monthly,skew,0.20164915195292957
+A_normality,CSCO,monthly,exkurt,1.3970465439673907
+A_normality,CSCO,monthly,jb,38.67569088865282
+A_normality,CSCO,monthly,jb_p,3.9965056531973795e-09
+A_normality,PFE,daily,skew,0.028447355972255395
+A_normality,PFE,daily,exkurt,3.7828378403716885
+A_normality,PFE,daily,jb,8167.412193792504
+A_normality,PFE,daily,jb_p,0.0
+A_normality,PFE,monthly,skew,0.3457049028037798
+A_normality,PFE,monthly,exkurt,1.6492065410724015
+A_normality,PFE,monthly,jb,86.7438440457703
+A_normality,PFE,monthly,jb_p,1.4581882551380252e-19
+A_normality,BAC,daily,skew,0.6538209092342471
+A_normality,BAC,daily,exkurt,26.134710744597882
+A_normality,BAC,daily,jb,385590.2891119475
+A_normality,BAC,daily,jb_p,0.0
+A_normality,BAC,monthly,skew,0.2440746999656432
+A_normality,BAC,monthly,exkurt,6.144824050819155
+A_normality,BAC,monthly,jb,1018.0070427812905
+A_normality,BAC,monthly,jb_p,8.76151866960756e-222
+A_normality,C,daily,skew,1.0571767910905925
+A_normality,C,daily,exkurt,49.07365021571522
+A_normality,C,daily,jb,1260431.3673020862
+A_normality,C,daily,jb_p,0.0
+A_normality,C,monthly,skew,0.07450853884504079
+A_normality,C,monthly,exkurt,7.161191705040197
+A_normality,C,monthly,jb,1274.0710060235322
+A_normality,C,monthly,jb_p,2.182711142759347e-277
+A_normality,NVDA,daily,skew,0.5957766863501507
+A_normality,NVDA,daily,exkurt,11.46678215130414
+A_normality,NVDA,daily,jb,38565.149928907835
+A_normality,NVDA,daily,jb_p,0.0
+A_normality,NVDA,monthly,skew,0.620752752298623
+A_normality,NVDA,monthly,exkurt,2.2143726571961198
+A_normality,NVDA,monthly,jb,89.1528201965491
+A_normality,NVDA,monthly,jb_p,4.3723112594082783e-20
+A_normality,T,daily,skew,0.0767989635073046
+A_normality,T,daily,exkurt,6.348209422352204
+A_normality,T,daily,jb,18140.469417551867
+A_normality,T,daily,jb_p,0.0
+A_normality,T,monthly,skew,0.017708642934123466
+A_normality,T,monthly,exkurt,1.1345688886078964
+A_normality,T,monthly,jb,27.595395284479515
+A_normality,T,monthly,jb_p,1.0179725119240413e-06
+A_normality,DIS,daily,skew,0.0025046895121137234
+A_normality,DIS,daily,exkurt,9.346310532750822
+A_normality,DIS,daily,jb,59305.778046763735
+A_normality,DIS,daily,jb_p,0.0
+A_normality,DIS,monthly,skew,0.10591387724361125
+A_normality,DIS,monthly,exkurt,1.7703825175491037
+A_normality,DIS,monthly,jb,102.7917166111388
+A_normality,DIS,monthly,jb_p,4.775978303652484e-23
+A_normality,HD,daily,skew,0.33975321289397037
+A_normality,HD,daily,exkurt,21.85546687863006
+A_normality,HD,daily,jb,226032.72458285422
+A_normality,HD,daily,jb_p,0.0
+A_normality,HD,monthly,skew,-0.05204159823227588
+A_normality,HD,monthly,exkurt,1.4910638519504333
+A_normality,HD,monthly,jb,50.2673562535397
+A_normality,HD,monthly,jb_p,1.2150167906531675e-11
+A_normality,MRK,daily,skew,-0.24993301461281706
+A_normality,MRK,daily,exkurt,10.522539474241624
+A_normality,MRK,daily,jb,75341.89655159961
+A_normality,MRK,daily,jb_p,0.0
+A_normality,MRK,monthly,skew,-0.0353035673713346
+A_normality,MRK,monthly,exkurt,0.9208992607829041
+A_normality,MRK,monthly,jb,27.581653050248555
+A_normality,MRK,monthly,jb_p,1.0249912057935923e-06
+A_normality,F,daily,skew,0.4672574205344365
+A_normality,F,daily,exkurt,13.419588131856816
+A_normality,F,daily,jb,103259.53742636519
+A_normality,F,daily,jb_p,0.0
+A_normality,F,monthly,skew,2.309978019706564
+A_normality,F,monthly,exkurt,25.61356635606304
+A_normality,F,monthly,jb,18374.441779539284
+A_normality,F,monthly,jb_p,0.0
+A_normality,BA,daily,skew,0.3138945516039425
+A_normality,BA,daily,exkurt,8.911506380733512
+A_normality,BA,daily,jb,54183.704469173616
+A_normality,BA,daily,jb_p,0.0
+A_normality,BA,monthly,skew,0.2638921724232124
+A_normality,BA,monthly,exkurt,2.49900544329137
+A_normality,BA,monthly,jb,210.9292328218974
+A_normality,BA,monthly,jb_p,1.5750670877659753e-46
+A_normality,CAT,daily,skew,-0.021220523597944428
+A_normality,CAT,daily,exkurt,5.509153810139065
+A_normality,CAT,daily,jb,20606.870365096216
+A_normality,CAT,daily,jb_p,0.0
+A_normality,CAT,monthly,skew,0.1274376534208291
+A_normality,CAT,monthly,exkurt,1.6788168368554608
+A_normality,CAT,monthly,jb,93.22952573115315
+A_normality,CAT,monthly,jb_p,5.694632629673259e-21
+A_normality,MMM,daily,skew,0.1440369644869574
+A_normality,MMM,daily,exkurt,10.9722265795857
+A_normality,MMM,daily,jb,81790.952899651
+A_normality,MMM,daily,jb_p,0.0
+A_normality,MMM,monthly,skew,0.09519371419607202
+A_normality,MMM,monthly,exkurt,1.3324437486340148
+A_normality,MMM,monthly,jb,58.57680348929102
+A_normality,MMM,monthly,jb_p,1.906376775375221e-13
+A_normality,BTC-USD,daily,skew,-0.09236595430287182
+A_normality,BTC-USD,daily,exkurt,8.027815416762602
+A_normality,BTC-USD,daily,jb,11810.576820298598
+A_normality,BTC-USD,daily,jb_p,0.0
+A_normality,BTC-USD,monthly,skew,0.5907643737588958
+A_normality,BTC-USD,monthly,exkurt,0.4353080323915983
+A_normality,BTC-USD,monthly,jb,9.513019585653637
+A_normality,BTC-USD,monthly,jb_p,0.008595557380791876
+A_tails,^GSPC,<-3sd,observed,221.0
+A_tails,^GSPC,<-3sd,expected_normal,33.4815208785212
+A_tails,^GSPC,<-4sd,observed,100.0
+A_tails,^GSPC,<-4sd,expected_normal,0.7855418111868719
+A_tails,^GSPC,<-5sd,observed,50.0
+A_tails,^GSPC,<-5sd,expected_normal,0.007109818937319631
+A_tails,^GSPC,<-6sd,observed,28.0
+A_tails,^GSPC,<-6sd,expected_normal,2.447033335986994e-05
+A_tails,^GSPC,<-7sd,observed,16.0
+A_tails,^GSPC,<-7sd,expected_normal,3.174319052600036e-08
+A_tails,^GSPC,<-10sd,observed,3.0
+A_tails,^GSPC,<-10sd,expected_normal,1.8899521455825213e-19
+C_pred,fwd_ES63,SD,pooled_spearman,0.6495820815688849
+C_pred,fwd_ES63,DD,pooled_spearman,0.6329954893707788
+C_pred,fwd_ES63,CVaR,pooled_spearman,0.6250614233730682
+C_pred,fwd_ES63,mVaR,pooled_spearman,0.6080016612123789
+C_pred,fwd_ES63,EWMA,pooled_spearman,0.6876298054474158
+C_pred,fwd_ES63,FHS,pooled_spearman,0.6667449969864657
+C_pred,fwd_ES63,DRT,pooled_spearman,0.6541776888317977
+C_pred,fwd_ES63,SD,pooled_spearman,0.6495820815688849
+C_pred,fwd_ES63,SD,cs_spearman_mean,0.6956635313419686
+C_pred,fwd_ES63,SD,cs_months,610.0
+C_pred,fwd_ES63,SD,ts_spearman_mean,0.44454915813745227
+C_pred,fwd_ES63,SD,r2_pooled_loglog,0.4781325638008562
+C_pred,fwd_ES63,SD,r2_within_loglog,0.21086473483210275
+C_pred,fwd_ES63,SD,r2_oos,0.4764004280109131
+C_pred,fwd_ES63,SD,mse_oos,0.1591604502772869
+C_pred,fwd_ES63,SD,n_obs,21648.0
+C_pred,fwd_ES63,DD,pooled_spearman,0.6329954893707788
+C_pred,fwd_ES63,DD,cs_spearman_mean,0.6722061630622133
+C_pred,fwd_ES63,DD,cs_months,610.0
+C_pred,fwd_ES63,DD,ts_spearman_mean,0.4276679389410642
+C_pred,fwd_ES63,DD,r2_pooled_loglog,0.4579924141051828
+C_pred,fwd_ES63,DD,r2_within_loglog,0.1979126871260204
+C_pred,fwd_ES63,DD,r2_oos,0.4551261876836772
+C_pred,fwd_ES63,DD,mse_oos,0.16562725783583213
+C_pred,fwd_ES63,DD,n_obs,21648.0
+C_pred,fwd_ES63,CVaR,pooled_spearman,0.6250614233730682
+C_pred,fwd_ES63,CVaR,cs_spearman_mean,0.6673865448529572
+C_pred,fwd_ES63,CVaR,cs_months,610.0
+C_pred,fwd_ES63,CVaR,ts_spearman_mean,0.4255902665689882
+C_pred,fwd_ES63,CVaR,r2_pooled_loglog,0.4488627295822075
+C_pred,fwd_ES63,CVaR,r2_within_loglog,0.1901612350217533
+C_pred,fwd_ES63,CVaR,r2_oos,0.4459004331826377
+C_pred,fwd_ES63,CVaR,mse_oos,0.16843164370451222
+C_pred,fwd_ES63,CVaR,n_obs,21648.0
+C_pred,fwd_ES63,mVaR,pooled_spearman,0.6080016612123789
+C_pred,fwd_ES63,mVaR,cs_spearman_mean,0.6317890891620789
+C_pred,fwd_ES63,mVaR,cs_months,610.0
+C_pred,fwd_ES63,mVaR,ts_spearman_mean,0.42165120499232733
+C_pred,fwd_ES63,mVaR,r2_pooled_loglog,0.30673872572404615
+C_pred,fwd_ES63,mVaR,r2_within_loglog,0.11040252347423117
+C_pred,fwd_ES63,mVaR,r2_oos,0.29501343764619326
+C_pred,fwd_ES63,mVaR,mse_oos,0.21429730791683518
+C_pred,fwd_ES63,mVaR,n_obs,21648.0
+C_pred,fwd_ES63,EWMA,pooled_spearman,0.6876298054474158
+C_pred,fwd_ES63,EWMA,cs_spearman_mean,0.665438149866297
+C_pred,fwd_ES63,EWMA,cs_months,610.0
+C_pred,fwd_ES63,EWMA,ts_spearman_mean,0.5223320763571309
+C_pred,fwd_ES63,EWMA,r2_pooled_loglog,0.5283568374890166
+C_pred,fwd_ES63,EWMA,r2_within_loglog,0.2963892262645582
+C_pred,fwd_ES63,EWMA,r2_oos,0.5333949267773854
+C_pred,fwd_ES63,EWMA,mse_oos,0.1418356269346332
+C_pred,fwd_ES63,EWMA,n_obs,21648.0
+C_pred,fwd_ES63,FHS,pooled_spearman,0.6667449969864657
+C_pred,fwd_ES63,FHS,cs_spearman_mean,0.6435947522323819
+C_pred,fwd_ES63,FHS,cs_months,610.0
+C_pred,fwd_ES63,FHS,ts_spearman_mean,0.5034925113827556
+C_pred,fwd_ES63,FHS,r2_pooled_loglog,0.5019841473532594
+C_pred,fwd_ES63,FHS,r2_within_loglog,0.27262945593881904
+C_pred,fwd_ES63,FHS,r2_oos,0.5065213130533601
+C_pred,fwd_ES63,FHS,mse_oos,0.1500044962189322
+C_pred,fwd_ES63,FHS,n_obs,21648.0
+C_pred,fwd_ES63,DRT,pooled_spearman,0.6541776888317977
+C_pred,fwd_ES63,DRT,cs_spearman_mean,0.630467635567043
+C_pred,fwd_ES63,DRT,cs_months,610.0
+C_pred,fwd_ES63,DRT,ts_spearman_mean,0.49273754351907667
+C_pred,fwd_ES63,DRT,r2_pooled_loglog,0.4845864544233059
+C_pred,fwd_ES63,DRT,r2_within_loglog,0.26024566589107134
+C_pred,fwd_ES63,DRT,r2_oos,0.4871992445147678
+C_pred,fwd_ES63,DRT,mse_oos,0.1558778950783091
+C_pred,fwd_ES63,DRT,n_obs,21648.0
+C_dm,fwd_ES63,DRT_vs_SD,DM_t,0.16822795049490305
+C_dm,fwd_ES63,DRT_vs_SD,DM_p,0.8664039529729907
+C_dm,fwd_ES63,DRT_vs_SD,mean_loss_diff,0.0009727968867462322
+C_cs_paired,fwd_ES63,DRT_vs_SD,mean_diff,-0.06519589577492549
+C_cs_paired,fwd_ES63,DRT_vs_SD,NW_t,-11.1040054290361
+C_cs_paired,fwd_ES63,DRT_vs_SD,p,1.1994521676644816e-28
+C_dm,fwd_ES63,DRT_vs_DD,DM_t,1.3532011764532081
+C_dm,fwd_ES63,DRT_vs_DD,DM_p,0.17599136953781447
+C_dm,fwd_ES63,DRT_vs_DD,mean_loss_diff,0.007506172626245518
+C_cs_paired,fwd_ES63,DRT_vs_DD,mean_diff,-0.041738527495170236
+C_cs_paired,fwd_ES63,DRT_vs_DD,NW_t,-7.487177626280646
+C_cs_paired,fwd_ES63,DRT_vs_DD,p,7.037043732643849e-14
+C_dm,fwd_ES63,DRT_vs_CVaR,DM_t,1.718624720677914
+C_dm,fwd_ES63,DRT_vs_CVaR,DM_p,0.08568272737594965
+C_dm,fwd_ES63,DRT_vs_CVaR,mean_loss_diff,0.009939893203539885
+C_cs_paired,fwd_ES63,DRT_vs_CVaR,mean_diff,-0.0369189092859142
+C_cs_paired,fwd_ES63,DRT_vs_CVaR,NW_t,-6.872616504844246
+C_cs_paired,fwd_ES63,DRT_vs_CVaR,p,6.303486076696718e-12
+C_dm,fwd_ES63,DRT_vs_mVaR,DM_t,4.423522984355173
+C_dm,fwd_ES63,DRT_vs_mVaR,DM_p,9.71042958911583e-06
+C_dm,fwd_ES63,DRT_vs_mVaR,mean_loss_diff,0.04275192012059132
+C_cs_paired,fwd_ES63,DRT_vs_mVaR,mean_diff,-0.001321453595035868
+C_cs_paired,fwd_ES63,DRT_vs_mVaR,NW_t,-0.16866425301934906
+C_cs_paired,fwd_ES63,DRT_vs_mVaR,p,0.8660607378397398
+C_dm,fwd_ES63,DRT_vs_EWMA,DM_t,-5.105505312244325
+C_dm,fwd_ES63,DRT_vs_EWMA,DM_p,3.2991171968656204e-07
+C_dm,fwd_ES63,DRT_vs_EWMA,mean_loss_diff,-0.012956811424205582
+C_cs_paired,fwd_ES63,DRT_vs_EWMA,mean_diff,-0.03497051429925401
+C_cs_paired,fwd_ES63,DRT_vs_EWMA,NW_t,-7.565976005159028
+C_cs_paired,fwd_ES63,DRT_vs_EWMA,p,3.8496311332112065e-14
+C_dm,fwd_ES63,DRT_vs_FHS,DM_t,-3.7204435140555967
+C_dm,fwd_ES63,DRT_vs_FHS,DM_p,0.00019887322027857673
+C_dm,fwd_ES63,DRT_vs_FHS,mean_loss_diff,-0.005629029646660849
+C_cs_paired,fwd_ES63,DRT_vs_FHS,mean_diff,-0.013127116665338862
+C_cs_paired,fwd_ES63,DRT_vs_FHS,NW_t,-3.592368540002118
+C_cs_paired,fwd_ES63,DRT_vs_FHS,p,0.0003276859729625301
+C_pred,fwd_MDD63,SD,pooled_spearman,0.4997014799315498
+C_pred,fwd_MDD63,DD,pooled_spearman,0.4891909553143774
+C_pred,fwd_MDD63,CVaR,pooled_spearman,0.47868295345145984
+C_pred,fwd_MDD63,mVaR,pooled_spearman,0.47355406211971407
+C_pred,fwd_MDD63,EWMA,pooled_spearman,0.5247975864970228
+C_pred,fwd_MDD63,FHS,pooled_spearman,0.5041855852222957
+C_pred,fwd_MDD63,DRT,pooled_spearman,0.4980021988919204
+C_pred,fwd_MDD63,SD,pooled_spearman,0.4997014799315498
+C_pred,fwd_MDD63,SD,cs_spearman_mean,0.5308623155399249
+C_pred,fwd_MDD63,SD,cs_months,610.0
+C_pred,fwd_MDD63,SD,ts_spearman_mean,0.29902106369680287
+C_pred,fwd_MDD63,SD,r2_pooled_loglog,0.303528543271396
+C_pred,fwd_MDD63,SD,r2_within_loglog,0.10549686964623435
+C_pred,fwd_MDD63,SD,r2_oos,0.30559453108152734
+C_pred,fwd_MDD63,SD,mse_oos,0.31859431460842086
+C_pred,fwd_MDD63,SD,n_obs,21648.0
+C_pred,fwd_MDD63,DD,pooled_spearman,0.4891909553143774
+C_pred,fwd_MDD63,DD,cs_spearman_mean,0.5202666789680764
+C_pred,fwd_MDD63,DD,cs_months,610.0
+C_pred,fwd_MDD63,DD,ts_spearman_mean,0.2863109507310388
+C_pred,fwd_MDD63,DD,r2_pooled_loglog,0.29147276026823243
+C_pred,fwd_MDD63,DD,r2_within_loglog,0.10035402808833051
+C_pred,fwd_MDD63,DD,r2_oos,0.29224421199876205
+C_pred,fwd_MDD63,DD,mse_oos,0.32471946187231243
+C_pred,fwd_MDD63,DD,n_obs,21648.0
+C_pred,fwd_MDD63,CVaR,pooled_spearman,0.47868295345145984
+C_pred,fwd_MDD63,CVaR,cs_spearman_mean,0.5173726932643887
+C_pred,fwd_MDD63,CVaR,cs_months,610.0
+C_pred,fwd_MDD63,CVaR,ts_spearman_mean,0.2806017119184904
+C_pred,fwd_MDD63,CVaR,r2_pooled_loglog,0.2804556839968933
+C_pred,fwd_MDD63,CVaR,r2_within_loglog,0.09281893593301344
+C_pred,fwd_MDD63,CVaR,r2_oos,0.28102134844757964
+C_pred,fwd_MDD63,CVaR,mse_oos,0.32986852921275495
+C_pred,fwd_MDD63,CVaR,n_obs,21648.0
+C_pred,fwd_MDD63,mVaR,pooled_spearman,0.47355406211971407
+C_pred,fwd_MDD63,mVaR,cs_spearman_mean,0.4872288665443702
+C_pred,fwd_MDD63,mVaR,cs_months,610.0
+C_pred,fwd_MDD63,mVaR,ts_spearman_mean,0.2835901005145398
+C_pred,fwd_MDD63,mVaR,r2_pooled_loglog,0.20133535069054975
+C_pred,fwd_MDD63,mVaR,r2_within_loglog,0.05976753288324967
+C_pred,fwd_MDD63,mVaR,r2_oos,0.19610199238507764
+C_pred,fwd_MDD63,mVaR,mse_oos,0.3688296625169883
+C_pred,fwd_MDD63,mVaR,n_obs,21648.0
+C_pred,fwd_MDD63,EWMA,pooled_spearman,0.5247975864970228
+C_pred,fwd_MDD63,EWMA,cs_spearman_mean,0.49527430475019496
+C_pred,fwd_MDD63,EWMA,cs_months,610.0
+C_pred,fwd_MDD63,EWMA,ts_spearman_mean,0.3467747599179831
+C_pred,fwd_MDD63,EWMA,r2_pooled_loglog,0.33100525815772697
+C_pred,fwd_MDD63,EWMA,r2_within_loglog,0.14430729040319315
+C_pred,fwd_MDD63,EWMA,r2_oos,0.3375218627758373
+C_pred,fwd_MDD63,EWMA,mse_oos,0.3039460049194621
+C_pred,fwd_MDD63,EWMA,n_obs,21648.0
+C_pred,fwd_MDD63,FHS,pooled_spearman,0.5041855852222957
+C_pred,fwd_MDD63,FHS,cs_spearman_mean,0.48474474615322966
+C_pred,fwd_MDD63,FHS,cs_months,610.0
+C_pred,fwd_MDD63,FHS,ts_spearman_mean,0.3286798355867583
+C_pred,fwd_MDD63,FHS,r2_pooled_loglog,0.3078932875977664
+C_pred,fwd_MDD63,FHS,r2_within_loglog,0.12790348303164192
+C_pred,fwd_MDD63,FHS,r2_oos,0.31335243378247224
+C_pred,fwd_MDD63,FHS,mse_oos,0.3150349767223643
+C_pred,fwd_MDD63,FHS,n_obs,21648.0
+C_pred,fwd_MDD63,DRT,pooled_spearman,0.4980021988919204
+C_pred,fwd_MDD63,DRT,cs_spearman_mean,0.4799238530966028
+C_pred,fwd_MDD63,DRT,cs_months,610.0
+C_pred,fwd_MDD63,DRT,ts_spearman_mean,0.32552808789815996
+C_pred,fwd_MDD63,DRT,r2_pooled_loglog,0.2991001365364575
+C_pred,fwd_MDD63,DRT,r2_within_loglog,0.1244914541656427
+C_pred,fwd_MDD63,DRT,r2_oos,0.30207218603837294
+C_pred,fwd_MDD63,DRT,mse_oos,0.3202103720202179
+C_pred,fwd_MDD63,DRT,n_obs,21648.0
+C_dm,fwd_MDD63,DRT_vs_SD,DM_t,-0.6337176038162403
+C_dm,fwd_MDD63,DRT_vs_SD,DM_p,0.5262651343293403
+C_dm,fwd_MDD63,DRT_vs_SD,mean_loss_diff,-0.004834391441309872
+C_cs_paired,fwd_MDD63,DRT_vs_SD,mean_diff,-0.050938462443322084
+C_cs_paired,fwd_MDD63,DRT_vs_SD,NW_t,-8.222825206440232
+C_cs_paired,fwd_MDD63,DRT_vs_SD,p,1.987644184117346e-16
+C_dm,fwd_MDD63,DRT_vs_DD,DM_t,0.14815150584426562
+C_dm,fwd_MDD63,DRT_vs_DD,DM_p,0.8822232021092569
+C_dm,fwd_MDD63,DRT_vs_DD,mean_loss_diff,0.0010730954869285015
+C_cs_paired,fwd_MDD63,DRT_vs_DD,mean_diff,-0.040342825871473656
+C_cs_paired,fwd_MDD63,DRT_vs_DD,NW_t,-7.004105366217318
+C_cs_paired,fwd_MDD63,DRT_vs_DD,p,2.485689997174498e-12
+C_dm,fwd_MDD63,DRT_vs_CVaR,DM_t,0.6614885653067863
+C_dm,fwd_MDD63,DRT_vs_CVaR,DM_p,0.5082990453344234
+C_dm,fwd_MDD63,DRT_vs_CVaR,mean_loss_diff,0.004933469048206574
+C_cs_paired,fwd_MDD63,DRT_vs_CVaR,mean_diff,-0.03744884016778602
+C_cs_paired,fwd_MDD63,DRT_vs_CVaR,NW_t,-6.365457215052352
+C_cs_paired,fwd_MDD63,DRT_vs_CVaR,p,1.9470884610251398e-10
+C_dm,fwd_MDD63,DRT_vs_mVaR,DM_t,3.3475037766239257
+C_dm,fwd_MDD63,DRT_vs_mVaR,DM_p,0.0008154287670096578
+C_dm,fwd_MDD63,DRT_vs_mVaR,mean_loss_diff,0.033392136744108326
+C_cs_paired,fwd_MDD63,DRT_vs_mVaR,mean_diff,-0.007305013447767405
+C_cs_paired,fwd_MDD63,DRT_vs_mVaR,NW_t,-0.964479864503111
+C_cs_paired,fwd_MDD63,DRT_vs_mVaR,p,0.3348053986911006
+C_dm,fwd_MDD63,DRT_vs_EWMA,DM_t,-4.265341009714289
+C_dm,fwd_MDD63,DRT_vs_EWMA,DM_p,1.9959710767567e-05
+C_dm,fwd_MDD63,DRT_vs_EWMA,mean_loss_diff,-0.014343342213360982
+C_cs_paired,fwd_MDD63,DRT_vs_EWMA,mean_diff,-0.015350451653592213
+C_cs_paired,fwd_MDD63,DRT_vs_EWMA,NW_t,-3.0287626074024794
+C_cs_paired,fwd_MDD63,DRT_vs_EWMA,p,0.002455575562218559
+C_dm,fwd_MDD63,DRT_vs_FHS,DM_t,-2.8293328680847583
+C_dm,fwd_MDD63,DRT_vs_FHS,DM_p,0.004664515602235451
+C_dm,fwd_MDD63,DRT_vs_FHS,mean_loss_diff,-0.005571084825580173
+C_cs_paired,fwd_MDD63,DRT_vs_FHS,mean_diff,-0.00482089305662686
+C_cs_paired,fwd_MDD63,DRT_vs_FHS,NW_t,-1.3025388896183439
+C_cs_paired,fwd_MDD63,DRT_vs_FHS,p,0.1927322326723715
+C_pred,fwd_worst21,SD,pooled_spearman,0.5781137914884549
+C_pred,fwd_worst21,DD,pooled_spearman,0.5674699814926727
+C_pred,fwd_worst21,CVaR,pooled_spearman,0.5581114548642533
+C_pred,fwd_worst21,mVaR,pooled_spearman,0.5492640581070225
+C_pred,fwd_worst21,EWMA,pooled_spearman,0.6212560109334996
+C_pred,fwd_worst21,FHS,pooled_spearman,0.5997041626458348
+C_pred,fwd_worst21,DRT,pooled_spearman,0.5927010821018768
+C_pred,fwd_worst21,SD,pooled_spearman,0.5781137914884549
+C_pred,fwd_worst21,SD,cs_spearman_mean,0.5667800957394288
+C_pred,fwd_worst21,SD,cs_months,610.0
+C_pred,fwd_worst21,SD,ts_spearman_mean,0.3983564722240828
+C_pred,fwd_worst21,SD,r2_pooled_loglog,0.3844128166502972
+C_pred,fwd_worst21,SD,r2_within_loglog,0.1741184020393569
+C_pred,fwd_worst21,SD,r2_oos,0.38864884455406634
+C_pred,fwd_worst21,SD,mse_oos,0.25939964082059835
+C_pred,fwd_worst21,SD,n_obs,21648.0
+C_pred,fwd_worst21,DD,pooled_spearman,0.5674699814926727
+C_pred,fwd_worst21,DD,cs_spearman_mean,0.5518463763030079
+C_pred,fwd_worst21,DD,cs_months,610.0
+C_pred,fwd_worst21,DD,ts_spearman_mean,0.3893549148196662
+C_pred,fwd_worst21,DD,r2_pooled_loglog,0.37283334948472024
+C_pred,fwd_worst21,DD,r2_within_loglog,0.16748349289306455
+C_pred,fwd_worst21,DD,r2_oos,0.376249024920588
+C_pred,fwd_worst21,DD,mse_oos,0.2646609521479946
+C_pred,fwd_worst21,DD,n_obs,21648.0
+C_pred,fwd_worst21,CVaR,pooled_spearman,0.5581114548642533
+C_pred,fwd_worst21,CVaR,cs_spearman_mean,0.5465413210801725
+C_pred,fwd_worst21,CVaR,cs_months,610.0
+C_pred,fwd_worst21,CVaR,ts_spearman_mean,0.38330323743811706
+C_pred,fwd_worst21,CVaR,r2_pooled_loglog,0.3620585714607084
+C_pred,fwd_worst21,CVaR,r2_within_loglog,0.1584745262180253
+C_pred,fwd_worst21,CVaR,r2_oos,0.3654212451576132
+C_pred,fwd_worst21,CVaR,mse_oos,0.2692552383554877
+C_pred,fwd_worst21,CVaR,n_obs,21648.0
+C_pred,fwd_worst21,mVaR,pooled_spearman,0.5492640581070225
+C_pred,fwd_worst21,mVaR,cs_spearman_mean,0.5218270097156664
+C_pred,fwd_worst21,mVaR,cs_months,610.0
+C_pred,fwd_worst21,mVaR,ts_spearman_mean,0.3847744463469572
+C_pred,fwd_worst21,mVaR,r2_pooled_loglog,0.25518313118731867
+C_pred,fwd_worst21,mVaR,r2_within_loglog,0.09705605752634361
+C_pred,fwd_worst21,mVaR,r2_oos,0.2526480572951967
+C_pred,fwd_worst21,mVaR,mse_oos,0.3171055191067634
+C_pred,fwd_worst21,mVaR,n_obs,21648.0
+C_pred,fwd_worst21,EWMA,pooled_spearman,0.6212560109334996
+C_pred,fwd_worst21,EWMA,cs_spearman_mean,0.5478273779898611
+C_pred,fwd_worst21,EWMA,cs_months,610.0
+C_pred,fwd_worst21,EWMA,ts_spearman_mean,0.4736542036011451
+C_pred,fwd_worst21,EWMA,r2_pooled_loglog,0.4399707629759267
+C_pred,fwd_worst21,EWMA,r2_within_loglog,0.24947672766636933
+C_pred,fwd_worst21,EWMA,r2_oos,0.44718271687990563
+C_pred,fwd_worst21,EWMA,mse_oos,0.2345633984713283
+C_pred,fwd_worst21,EWMA,n_obs,21648.0
+C_pred,fwd_worst21,FHS,pooled_spearman,0.5997041626458348
+C_pred,fwd_worst21,FHS,cs_spearman_mean,0.5302169310128584
+C_pred,fwd_worst21,FHS,cs_months,610.0
+C_pred,fwd_worst21,FHS,ts_spearman_mean,0.45403782159266975
+C_pred,fwd_worst21,FHS,r2_pooled_loglog,0.4140393435648143
+C_pred,fwd_worst21,FHS,r2_within_loglog,0.22656632854334877
+C_pred,fwd_worst21,FHS,r2_oos,0.42052464228465236
+C_pred,fwd_worst21,FHS,mse_oos,0.2458745654060393
+C_pred,fwd_worst21,FHS,n_obs,21648.0
+C_pred,fwd_worst21,DRT,pooled_spearman,0.5927010821018768
+C_pred,fwd_worst21,DRT,cs_spearman_mean,0.5256794670280885
+C_pred,fwd_worst21,DRT,cs_months,610.0
+C_pred,fwd_worst21,DRT,ts_spearman_mean,0.44730224115272565
+C_pred,fwd_worst21,DRT,r2_pooled_loglog,0.4044405664893153
+C_pred,fwd_worst21,DRT,r2_within_loglog,0.22041196424562728
+C_pred,fwd_worst21,DRT,r2_oos,0.41005093881928045
+C_pred,fwd_worst21,DRT,mse_oos,0.2503186151028084
+C_pred,fwd_worst21,DRT,n_obs,21648.0
+C_dm,fwd_worst21,DRT_vs_SD,DM_t,1.1036524111470103
+C_dm,fwd_worst21,DRT_vs_SD,DM_p,0.2697439464923369
+C_dm,fwd_worst21,DRT_vs_SD,mean_loss_diff,0.006051776734859892
+C_cs_paired,fwd_worst21,DRT_vs_SD,mean_diff,-0.041100628711340216
+C_cs_paired,fwd_worst21,DRT_vs_SD,NW_t,-9.008764614005909
+C_cs_paired,fwd_worst21,DRT_vs_SD,p,2.0839063342682078e-19
+C_dm,fwd_worst21,DRT_vs_DD,DM_t,2.2394761057336083
+C_dm,fwd_worst21,DRT_vs_DD,DM_p,0.025124954328895267
+C_dm,fwd_worst21,DRT_vs_DD,mean_loss_diff,0.011528978108625975
+C_cs_paired,fwd_worst21,DRT_vs_DD,mean_diff,-0.026166909274919322
+C_cs_paired,fwd_worst21,DRT_vs_DD,NW_t,-6.2155742984306634
+C_cs_paired,fwd_worst21,DRT_vs_DD,p,5.113726932214545e-10
+C_dm,fwd_worst21,DRT_vs_CVaR,DM_t,2.9936985688949993
+C_dm,fwd_worst21,DRT_vs_CVaR,DM_p,0.0027561809457324797
+C_dm,fwd_worst21,DRT_vs_CVaR,mean_loss_diff,0.015322337712000879
+C_cs_paired,fwd_worst21,DRT_vs_CVaR,mean_diff,-0.02086185405208396
+C_cs_paired,fwd_worst21,DRT_vs_CVaR,NW_t,-4.974872078560191
+C_cs_paired,fwd_worst21,DRT_vs_CVaR,p,6.529074134081022e-07
+C_dm,fwd_worst21,DRT_vs_mVaR,DM_t,5.809339147165504
+C_dm,fwd_worst21,DRT_vs_mVaR,DM_p,6.271992090241548e-09
+C_dm,fwd_worst21,DRT_vs_mVaR,mean_loss_diff,0.04946703700348596
+C_cs_paired,fwd_worst21,DRT_vs_mVaR,mean_diff,0.003852457312422155
+C_cs_paired,fwd_worst21,DRT_vs_mVaR,NW_t,0.715730560149468
+C_cs_paired,fwd_worst21,DRT_vs_mVaR,p,0.474157736891213
+C_dm,fwd_worst21,DRT_vs_EWMA,DM_t,-6.281631770083991
+C_dm,fwd_worst21,DRT_vs_EWMA,DM_p,3.350376519865214e-10
+C_dm,fwd_worst21,DRT_vs_EWMA,mean_loss_diff,-0.014062776185223651
+C_cs_paired,fwd_worst21,DRT_vs_EWMA,mean_diff,-0.02214791096177254
+C_cs_paired,fwd_worst21,DRT_vs_EWMA,NW_t,-5.7142504308736015
+C_cs_paired,fwd_worst21,DRT_vs_EWMA,p,1.1018862865663584e-08
+C_dm,fwd_worst21,DRT_vs_FHS,DM_t,-2.695178239458388
+C_dm,fwd_worst21,DRT_vs_FHS,DM_p,0.007035098722065702
+C_dm,fwd_worst21,DRT_vs_FHS,mean_loss_diff,-0.0043308206390182385
+C_cs_paired,fwd_worst21,DRT_vs_FHS,mean_diff,-0.004537463984769827
+C_cs_paired,fwd_worst21,DRT_vs_FHS,NW_t,-1.3239690695134596
+C_cs_paired,fwd_worst21,DRT_vs_FHS,p,0.1855133173472383
+C_pred,fwd_MDD252,SD,pooled_spearman,0.44986540734666636
+C_pred,fwd_MDD252,DD,pooled_spearman,0.4403331301044336
+C_pred,fwd_MDD252,CVaR,pooled_spearman,0.43549902270495183
+C_pred,fwd_MDD252,mVaR,pooled_spearman,0.42059165010072447
+C_pred,fwd_MDD252,EWMA,pooled_spearman,0.4814275552766012
+C_pred,fwd_MDD252,FHS,pooled_spearman,0.47510680973210206
+C_pred,fwd_MDD252,DRT,pooled_spearman,0.4720590381263395
+C_pred,fwd_MDD252,SD,pooled_spearman,0.44986540734666636
+C_pred,fwd_MDD252,SD,cs_spearman_mean,0.5645965484588538
+C_pred,fwd_MDD252,SD,cs_months,600.0
+C_pred,fwd_MDD252,SD,ts_spearman_mean,0.19616819551933262
+C_pred,fwd_MDD252,SD,r2_pooled_loglog,0.25163862880942117
+C_pred,fwd_MDD252,SD,r2_within_loglog,0.046737379310408854
+C_pred,fwd_MDD252,SD,r2_oos,0.24673885874474544
+C_pred,fwd_MDD252,SD,mse_oos,0.27541086431218975
+C_pred,fwd_MDD252,SD,n_obs,21172.0
+C_pred,fwd_MDD252,DD,pooled_spearman,0.4403331301044336
+C_pred,fwd_MDD252,DD,cs_spearman_mean,0.5525648088863594
+C_pred,fwd_MDD252,DD,cs_months,600.0
+C_pred,fwd_MDD252,DD,ts_spearman_mean,0.1917511364162663
+C_pred,fwd_MDD252,DD,r2_pooled_loglog,0.23977879069567992
+C_pred,fwd_MDD252,DD,r2_within_loglog,0.04471223311134884
+C_pred,fwd_MDD252,DD,r2_oos,0.23203232011731434
+C_pred,fwd_MDD252,DD,mse_oos,0.2807879378031597
+C_pred,fwd_MDD252,DD,n_obs,21172.0
+C_pred,fwd_MDD252,CVaR,pooled_spearman,0.43549902270495183
+C_pred,fwd_MDD252,CVaR,cs_spearman_mean,0.5482334935556168
+C_pred,fwd_MDD252,CVaR,cs_months,600.0
+C_pred,fwd_MDD252,CVaR,ts_spearman_mean,0.19676400326238017
+C_pred,fwd_MDD252,CVaR,r2_pooled_loglog,0.23382307808688227
+C_pred,fwd_MDD252,CVaR,r2_within_loglog,0.042394497922533476
+C_pred,fwd_MDD252,CVaR,r2_oos,0.2257183422969451
+C_pred,fwd_MDD252,CVaR,mse_oos,0.28309648392815706
+C_pred,fwd_MDD252,CVaR,n_obs,21172.0
+C_pred,fwd_MDD252,mVaR,pooled_spearman,0.42059165010072447
+C_pred,fwd_MDD252,mVaR,cs_spearman_mean,0.5116054152803486
+C_pred,fwd_MDD252,mVaR,cs_months,600.0
+C_pred,fwd_MDD252,mVaR,ts_spearman_mean,0.18399669801064988
+C_pred,fwd_MDD252,mVaR,r2_pooled_loglog,0.1608424683451601
+C_pred,fwd_MDD252,mVaR,r2_within_loglog,0.026793710376210023
+C_pred,fwd_MDD252,mVaR,r2_oos,0.1453261267028697
+C_pred,fwd_MDD252,mVaR,mse_oos,0.31248986209159185
+C_pred,fwd_MDD252,mVaR,n_obs,21172.0
+C_pred,fwd_MDD252,EWMA,pooled_spearman,0.4814275552766012
+C_pred,fwd_MDD252,EWMA,cs_spearman_mean,0.5276083457352486
+C_pred,fwd_MDD252,EWMA,cs_months,600.0
+C_pred,fwd_MDD252,EWMA,ts_spearman_mean,0.25138308828510053
+C_pred,fwd_MDD252,EWMA,r2_pooled_loglog,0.2743040962380411
+C_pred,fwd_MDD252,EWMA,r2_within_loglog,0.0792062905743535
+C_pred,fwd_MDD252,EWMA,r2_oos,0.2813182901019713
+C_pred,fwd_MDD252,EWMA,mse_oos,0.26276777076079894
+C_pred,fwd_MDD252,EWMA,n_obs,21172.0
+C_pred,fwd_MDD252,FHS,pooled_spearman,0.47510680973210206
+C_pred,fwd_MDD252,FHS,cs_spearman_mean,0.5240892205679688
+C_pred,fwd_MDD252,FHS,cs_months,600.0
+C_pred,fwd_MDD252,FHS,ts_spearman_mean,0.25203512822681556
+C_pred,fwd_MDD252,FHS,r2_pooled_loglog,0.26285554066453787
+C_pred,fwd_MDD252,FHS,r2_within_loglog,0.07517152322155476
+C_pred,fwd_MDD252,FHS,r2_oos,0.2691642900676756
+C_pred,fwd_MDD252,FHS,mse_oos,0.2672115731434861
+C_pred,fwd_MDD252,FHS,n_obs,21172.0
+C_pred,fwd_MDD252,DRT,pooled_spearman,0.4720590381263395
+C_pred,fwd_MDD252,DRT,cs_spearman_mean,0.5197765973106144
+C_pred,fwd_MDD252,DRT,cs_months,600.0
+C_pred,fwd_MDD252,DRT,ts_spearman_mean,0.25822141869208143
+C_pred,fwd_MDD252,DRT,r2_pooled_loglog,0.2567640615006653
+C_pred,fwd_MDD252,DRT,r2_within_loglog,0.07604866676109799
+C_pred,fwd_MDD252,DRT,r2_oos,0.2609389091549328
+C_pred,fwd_MDD252,DRT,mse_oos,0.2702189754139662
+C_pred,fwd_MDD252,DRT,n_obs,21172.0
+C_dm,fwd_MDD252,DRT_vs_SD,DM_t,0.43491976377979874
+C_dm,fwd_MDD252,DRT_vs_SD,DM_p,0.6636206683832926
+C_dm,fwd_MDD252,DRT_vs_SD,mean_loss_diff,0.004015112560680623
+C_cs_paired,fwd_MDD252,DRT_vs_SD,mean_diff,-0.044819951148239355
+C_cs_paired,fwd_MDD252,DRT_vs_SD,NW_t,-5.759484345473548
+C_cs_paired,fwd_MDD252,DRT_vs_SD,p,8.437128343958205e-09
+C_dm,fwd_MDD252,DRT_vs_DD,DM_t,1.1767014877910462
+C_dm,fwd_MDD252,DRT_vs_DD,DM_p,0.23931467382176463
+C_dm,fwd_MDD252,DRT_vs_DD,mean_loss_diff,0.010257789649007391
+C_cs_paired,fwd_MDD252,DRT_vs_DD,mean_diff,-0.03278821157574487
+C_cs_paired,fwd_MDD252,DRT_vs_DD,NW_t,-4.629121184381551
+C_cs_paired,fwd_MDD252,DRT_vs_DD,p,3.6722083132556093e-06
+C_dm,fwd_MDD252,DRT_vs_CVaR,DM_t,1.3085652673056856
+C_dm,fwd_MDD252,DRT_vs_CVaR,DM_p,0.19068165260337355
+C_dm,fwd_MDD252,DRT_vs_CVaR,mean_loss_diff,0.011406273882360835
+C_cs_paired,fwd_MDD252,DRT_vs_CVaR,mean_diff,-0.02845689624500233
+C_cs_paired,fwd_MDD252,DRT_vs_CVaR,NW_t,-3.81708350676394
+C_cs_paired,fwd_MDD252,DRT_vs_CVaR,p,0.00013503847519696295
+C_dm,fwd_MDD252,DRT_vs_mVaR,DM_t,2.6136808392172513
+C_dm,fwd_MDD252,DRT_vs_mVaR,DM_p,0.008957266699222187
+C_dm,fwd_MDD252,DRT_vs_mVaR,mean_loss_diff,0.03437142181830681
+C_cs_paired,fwd_MDD252,DRT_vs_mVaR,mean_diff,0.008171182030265813
+C_cs_paired,fwd_MDD252,DRT_vs_mVaR,NW_t,0.8138288081957243
+C_cs_paired,fwd_MDD252,DRT_vs_mVaR,p,0.4157430291441192
+C_dm,fwd_MDD252,DRT_vs_EWMA,DM_t,-1.1897951314942696
+C_dm,fwd_MDD252,DRT_vs_EWMA,DM_p,0.23412692358368348
+C_dm,fwd_MDD252,DRT_vs_EWMA,mean_loss_diff,-0.00621206358141321
+C_cs_paired,fwd_MDD252,DRT_vs_EWMA,mean_diff,-0.007831748424634218
+C_cs_paired,fwd_MDD252,DRT_vs_EWMA,NW_t,-1.1231665716894366
+C_cs_paired,fwd_MDD252,DRT_vs_EWMA,p,0.2613667569118485
+C_dm,fwd_MDD252,DRT_vs_FHS,DM_t,-0.8297196205421384
+C_dm,fwd_MDD252,DRT_vs_FHS,DM_p,0.4066973255521168
+C_dm,fwd_MDD252,DRT_vs_FHS,mean_loss_diff,-0.0021362381872797828
+C_cs_paired,fwd_MDD252,DRT_vs_FHS,mean_diff,-0.004312623257354267
+C_cs_paired,fwd_MDD252,DRT_vs_FHS,NW_t,-0.8633013012792367
+C_cs_paired,fwd_MDD252,DRT_vs_FHS,p,0.38797182892652626
+C_pred,fwd_ES252,SD,pooled_spearman,0.5918971915997507
+C_pred,fwd_ES252,DD,pooled_spearman,0.5751082315243703
+C_pred,fwd_ES252,CVaR,pooled_spearman,0.5759038988643438
+C_pred,fwd_ES252,mVaR,pooled_spearman,0.5460711180117412
+C_pred,fwd_ES252,EWMA,pooled_spearman,0.6195518114500532
+C_pred,fwd_ES252,FHS,pooled_spearman,0.6160809448311617
+C_pred,fwd_ES252,DRT,pooled_spearman,0.6078667664860342
+C_pred,fwd_ES252,SD,pooled_spearman,0.5918971915997507
+C_pred,fwd_ES252,SD,cs_spearman_mean,0.73403868439769
+C_pred,fwd_ES252,SD,cs_months,600.0
+C_pred,fwd_ES252,SD,ts_spearman_mean,0.31974335352266897
+C_pred,fwd_ES252,SD,r2_pooled_loglog,0.41498116461179363
+C_pred,fwd_ES252,SD,r2_within_loglog,0.11309400292683473
+C_pred,fwd_ES252,SD,r2_oos,0.4060840057992987
+C_pred,fwd_ES252,SD,mse_oos,0.15683679564014677
+C_pred,fwd_ES252,SD,n_obs,21172.0
+C_pred,fwd_ES252,DD,pooled_spearman,0.5751082315243703
+C_pred,fwd_ES252,DD,cs_spearman_mean,0.7103176955343494
+C_pred,fwd_ES252,DD,cs_months,600.0
+C_pred,fwd_ES252,DD,ts_spearman_mean,0.30837426059469436
+C_pred,fwd_ES252,DD,r2_pooled_loglog,0.39328416930593246
+C_pred,fwd_ES252,DD,r2_within_loglog,0.10548737080350899
+C_pred,fwd_ES252,DD,r2_oos,0.38372538736903716
+C_pred,fwd_ES252,DD,mse_oos,0.16274108867785533
+C_pred,fwd_ES252,DD,n_obs,21172.0
+C_pred,fwd_ES252,CVaR,pooled_spearman,0.5759038988643438
+C_pred,fwd_ES252,CVaR,cs_spearman_mean,0.7073084227094729
+C_pred,fwd_ES252,CVaR,cs_months,600.0
+C_pred,fwd_ES252,CVaR,ts_spearman_mean,0.32088646833391965
+C_pred,fwd_ES252,CVaR,r2_pooled_loglog,0.3930095252903435
+C_pred,fwd_ES252,CVaR,r2_within_loglog,0.10664838652428935
+C_pred,fwd_ES252,CVaR,r2_oos,0.3830626538688937
+C_pred,fwd_ES252,CVaR,mse_oos,0.16291609827439898
+C_pred,fwd_ES252,CVaR,n_obs,21172.0
+C_pred,fwd_ES252,mVaR,pooled_spearman,0.5460711180117412
+C_pred,fwd_ES252,mVaR,cs_spearman_mean,0.6590875066139504
+C_pred,fwd_ES252,mVaR,cs_months,600.0
+C_pred,fwd_ES252,mVaR,ts_spearman_mean,0.2989829981945525
+C_pred,fwd_ES252,mVaR,r2_pooled_loglog,0.25295048813551785
+C_pred,fwd_ES252,mVaR,r2_within_loglog,0.05588367506089777
+C_pred,fwd_ES252,mVaR,r2_oos,0.23284488001069337
+C_pred,fwd_ES252,mVaR,mse_oos,0.20258445967595246
+C_pred,fwd_ES252,mVaR,n_obs,21172.0
+C_pred,fwd_ES252,EWMA,pooled_spearman,0.6195518114500532
+C_pred,fwd_ES252,EWMA,cs_spearman_mean,0.6890212735537806
+C_pred,fwd_ES252,EWMA,cs_months,600.0
+C_pred,fwd_ES252,EWMA,ts_spearman_mean,0.39722816568302016
+C_pred,fwd_ES252,EWMA,r2_pooled_loglog,0.4403047271399503
+C_pred,fwd_ES252,EWMA,r2_within_loglog,0.17097728711725238
+C_pred,fwd_ES252,EWMA,r2_oos,0.44207978366543854
+C_pred,fwd_ES252,EWMA,mse_oos,0.1473313057859838
+C_pred,fwd_ES252,EWMA,n_obs,21172.0
+C_pred,fwd_ES252,FHS,pooled_spearman,0.6160809448311617
+C_pred,fwd_ES252,FHS,cs_spearman_mean,0.68230558994093
+C_pred,fwd_ES252,FHS,cs_months,600.0
+C_pred,fwd_ES252,FHS,ts_spearman_mean,0.3987291802245266
+C_pred,fwd_ES252,FHS,r2_pooled_loglog,0.4322678872387124
+C_pred,fwd_ES252,FHS,r2_within_loglog,0.16988763644622296
+C_pred,fwd_ES252,FHS,r2_oos,0.43443724230349867
+C_pred,fwd_ES252,FHS,mse_oos,0.1493494896864983
+C_pred,fwd_ES252,FHS,n_obs,21172.0
+C_pred,fwd_ES252,DRT,pooled_spearman,0.6078667664860342
+C_pred,fwd_ES252,DRT,cs_spearman_mean,0.6675323595802799
+C_pred,fwd_ES252,DRT,cs_months,600.0
+C_pred,fwd_ES252,DRT,ts_spearman_mean,0.39646782535093905
+C_pred,fwd_ES252,DRT,r2_pooled_loglog,0.4186346075980048
+C_pred,fwd_ES252,DRT,r2_within_loglog,0.1664853309556833
+C_pred,fwd_ES252,DRT,r2_oos,0.4200079464671168
+C_pred,fwd_ES252,DRT,mse_oos,0.153159867828221
+C_pred,fwd_ES252,DRT,n_obs,21172.0
+C_dm,fwd_ES252,DRT_vs_SD,DM_t,0.2679001444106358
+C_dm,fwd_ES252,DRT_vs_SD,DM_p,0.7887761825363037
+C_dm,fwd_ES252,DRT_vs_SD,mean_loss_diff,0.002019050207474322
+C_cs_paired,fwd_ES252,DRT_vs_SD,mean_diff,-0.06650632481741016
+C_cs_paired,fwd_ES252,DRT_vs_SD,NW_t,-9.695845366468744
+C_cs_paired,fwd_ES252,DRT_vs_SD,p,3.1402623815956584e-22
+C_dm,fwd_ES252,DRT_vs_DD,DM_t,1.2368754244900861
+C_dm,fwd_ES252,DRT_vs_DD,DM_p,0.216133335021928
+C_dm,fwd_ES252,DRT_vs_DD,mean_loss_diff,0.008397231706880195
+C_cs_paired,fwd_ES252,DRT_vs_DD,mean_diff,-0.042785335954069574
+C_cs_paired,fwd_ES252,DRT_vs_DD,NW_t,-6.225020540373503
+C_cs_paired,fwd_ES252,DRT_vs_DD,p,4.81492924808718e-10
+C_dm,fwd_ES252,DRT_vs_CVaR,DM_t,1.2141171515193658
+C_dm,fwd_ES252,DRT_vs_CVaR,DM_p,0.2247029913263362
+C_dm,fwd_ES252,DRT_vs_CVaR,mean_loss_diff,0.008592492751998677
+C_cs_paired,fwd_ES252,DRT_vs_CVaR,mean_diff,-0.03977606312919314
+C_cs_paired,fwd_ES252,DRT_vs_CVaR,NW_t,-5.6630908024079405
+C_cs_paired,fwd_ES252,DRT_vs_CVaR,p,1.4867043569389936e-08
+C_dm,fwd_ES252,DRT_vs_mVaR,DM_t,2.86825681016761
+C_dm,fwd_ES252,DRT_vs_mVaR,DM_p,0.004127403640910868
+C_dm,fwd_ES252,DRT_vs_mVaR,mean_loss_diff,0.03752431325567125
+C_cs_paired,fwd_ES252,DRT_vs_mVaR,mean_diff,0.008444852966329469
+C_cs_paired,fwd_ES252,DRT_vs_mVaR,NW_t,0.74368020640492
+C_cs_paired,fwd_ES252,DRT_vs_mVaR,p,0.4570699669502294
+C_dm,fwd_ES252,DRT_vs_EWMA,DM_t,-1.2742738499988207
+C_dm,fwd_ES252,DRT_vs_EWMA,DM_p,0.2025663806897422
+C_dm,fwd_ES252,DRT_vs_EWMA,mean_loss_diff,-0.00540666358353686
+C_cs_paired,fwd_ES252,DRT_vs_EWMA,mean_diff,-0.021488913973500803
+C_cs_paired,fwd_ES252,DRT_vs_EWMA,NW_t,-3.523791837948782
+C_cs_paired,fwd_ES252,DRT_vs_EWMA,p,0.0004254183221672792
+C_dm,fwd_ES252,DRT_vs_FHS,DM_t,-1.3982408401220756
+C_dm,fwd_ES252,DRT_vs_FHS,DM_p,0.16204075652291783
+C_dm,fwd_ES252,DRT_vs_FHS,mean_loss_diff,-0.0027745167089176185
+C_cs_paired,fwd_ES252,DRT_vs_FHS,mean_diff,-0.014773230360650187
+C_cs_paired,fwd_ES252,DRT_vs_FHS,NW_t,-2.950070068356766
+C_cs_paired,fwd_ES252,DRT_vs_FHS,p,0.0031770186964094863
+C_pred,fwd_SD63,SD,pooled_spearman,0.7288788614033112
+C_pred,fwd_SD63,DD,pooled_spearman,0.7089823384978065
+C_pred,fwd_SD63,CVaR,pooled_spearman,0.694526853727066
+C_pred,fwd_SD63,mVaR,pooled_spearman,0.6816548052316758
+C_pred,fwd_SD63,EWMA,pooled_spearman,0.7722084441531435
+C_pred,fwd_SD63,FHS,pooled_spearman,0.7407242283609864
+C_pred,fwd_SD63,DRT,pooled_spearman,0.7296249305346003
+C_pred,fwd_SD63,SD,pooled_spearman,0.7288788614033112
+C_pred,fwd_SD63,SD,cs_spearman_mean,0.789915931888898
+C_pred,fwd_SD63,SD,cs_months,610.0
+C_pred,fwd_SD63,SD,ts_spearman_mean,0.5353921749472651
+C_pred,fwd_SD63,SD,r2_pooled_loglog,0.582063050976189
+C_pred,fwd_SD63,SD,r2_within_loglog,0.30512341739924276
+C_pred,fwd_SD63,SD,r2_oos,0.5791236939859836
+C_pred,fwd_SD63,SD,mse_oos,0.1188207670107265
+C_pred,fwd_SD63,SD,n_obs,21648.0
+C_pred,fwd_SD63,DD,pooled_spearman,0.7089823384978065
+C_pred,fwd_SD63,DD,cs_spearman_mean,0.7622730092658062
+C_pred,fwd_SD63,DD,cs_months,610.0
+C_pred,fwd_SD63,DD,ts_spearman_mean,0.5188494381154537
+C_pred,fwd_SD63,DD,r2_pooled_loglog,0.5581319256822078
+C_pred,fwd_SD63,DD,r2_within_loglog,0.2891083829432498
+C_pred,fwd_SD63,DD,r2_oos,0.5537664516571654
+C_pred,fwd_SD63,DD,mse_oos,0.1259795615062444
+C_pred,fwd_SD63,DD,n_obs,21648.0
+C_pred,fwd_SD63,CVaR,pooled_spearman,0.694526853727066
+C_pred,fwd_SD63,CVaR,cs_spearman_mean,0.7543614334885692
+C_pred,fwd_SD63,CVaR,cs_months,610.0
+C_pred,fwd_SD63,CVaR,ts_spearman_mean,0.5094739870724425
+C_pred,fwd_SD63,CVaR,r2_pooled_loglog,0.5404165822618553
+C_pred,fwd_SD63,CVaR,r2_within_loglog,0.27078658549939344
+C_pred,fwd_SD63,CVaR,r2_oos,0.5358851753050258
+C_pred,fwd_SD63,CVaR,mse_oos,0.13102775961322274
+C_pred,fwd_SD63,CVaR,n_obs,21648.0
+C_pred,fwd_SD63,mVaR,pooled_spearman,0.6816548052316758
+C_pred,fwd_SD63,mVaR,cs_spearman_mean,0.7147485233309488
+C_pred,fwd_SD63,mVaR,cs_months,610.0
+C_pred,fwd_SD63,mVaR,ts_spearman_mean,0.510380247600939
+C_pred,fwd_SD63,mVaR,r2_pooled_loglog,0.3778824553034189
+C_pred,fwd_SD63,mVaR,r2_within_loglog,0.16758090079724602
+C_pred,fwd_SD63,mVaR,r2_oos,0.3641120706619809
+C_pred,fwd_SD63,mVaR,mse_oos,0.1795223214449374
+C_pred,fwd_SD63,mVaR,n_obs,21648.0
+C_pred,fwd_SD63,EWMA,pooled_spearman,0.7722084441531435
+C_pred,fwd_SD63,EWMA,cs_spearman_mean,0.755822419920972
+C_pred,fwd_SD63,EWMA,cs_months,610.0
+C_pred,fwd_SD63,EWMA,ts_spearman_mean,0.6262883758974481
+C_pred,fwd_SD63,EWMA,r2_pooled_loglog,0.6424505593191685
+C_pred,fwd_SD63,EWMA,r2_within_loglog,0.41920656199620127
+C_pred,fwd_SD63,EWMA,r2_oos,0.6470236959051832
+C_pred,fwd_SD63,EWMA,mse_oos,0.09965140491363471
+C_pred,fwd_SD63,EWMA,n_obs,21648.0
+C_pred,fwd_SD63,FHS,pooled_spearman,0.7407242283609864
+C_pred,fwd_SD63,FHS,cs_spearman_mean,0.7292214151426492
+C_pred,fwd_SD63,FHS,cs_months,610.0
+C_pred,fwd_SD63,FHS,ts_spearman_mean,0.5952109487770582
+C_pred,fwd_SD63,FHS,r2_pooled_loglog,0.6017882818718646
+C_pred,fwd_SD63,FHS,r2_within_loglog,0.37622113507406013
+C_pred,fwd_SD63,FHS,r2_oos,0.6052779351454356
+C_pred,fwd_SD63,FHS,mse_oos,0.11143696575904449
+C_pred,fwd_SD63,FHS,n_obs,21648.0
+C_pred,fwd_SD63,DRT,pooled_spearman,0.7296249305346003
+C_pred,fwd_SD63,DRT,cs_spearman_mean,0.7194244367035582
+C_pred,fwd_SD63,DRT,cs_months,610.0
+C_pred,fwd_SD63,DRT,ts_spearman_mean,0.5848612244351902
+C_pred,fwd_SD63,DRT,r2_pooled_loglog,0.5831566819871151
+C_pred,fwd_SD63,DRT,r2_within_loglog,0.3622070001604975
+C_pred,fwd_SD63,DRT,r2_oos,0.5839975268903155
+C_pred,fwd_SD63,DRT,mse_oos,0.11744479845250709
+C_pred,fwd_SD63,DRT,n_obs,21648.0
+C_dm,fwd_SD63,DRT_vs_SD,DM_t,-0.056382366971092335
+C_dm,fwd_SD63,DRT_vs_SD,DM_p,0.9550372037265741
+C_dm,fwd_SD63,DRT_vs_SD,mean_loss_diff,-0.0003424608474512672
+C_cs_paired,fwd_SD63,DRT_vs_SD,mean_diff,-0.07049149518533977
+C_cs_paired,fwd_SD63,DRT_vs_SD,NW_t,-12.43051824033704
+C_cs_paired,fwd_SD63,DRT_vs_SD,p,1.784735469704564e-35
+C_dm,fwd_SD63,DRT_vs_DD,DM_t,1.1809904302528307
+C_dm,fwd_SD63,DRT_vs_DD,DM_p,0.237606524974599
+C_dm,fwd_SD63,DRT_vs_DD,mean_loss_diff,0.00689542824060081
+C_cs_paired,fwd_SD63,DRT_vs_DD,mean_diff,-0.04284857256224805
+C_cs_paired,fwd_SD63,DRT_vs_DD,NW_t,-7.595517668383774
+C_cs_paired,fwd_SD63,DRT_vs_DD,p,3.0656439868608895e-14
+C_dm,fwd_SD63,DRT_vs_CVaR,DM_t,1.7899437905241762
+C_dm,fwd_SD63,DRT_vs_CVaR,DM_p,0.07346294809964735
+C_dm,fwd_SD63,DRT_vs_CVaR,mean_loss_diff,0.010945367839477476
+C_cs_paired,fwd_SD63,DRT_vs_CVaR,mean_diff,-0.034936996785010874
+C_cs_paired,fwd_SD63,DRT_vs_CVaR,NW_t,-6.2444948653651124
+C_cs_paired,fwd_SD63,DRT_vs_CVaR,p,4.2517189571064684e-10
+C_dm,fwd_SD63,DRT_vs_mVaR,DM_t,4.437614877355618
+C_dm,fwd_SD63,DRT_vs_mVaR,DM_p,9.096117867436174e-06
+C_dm,fwd_SD63,DRT_vs_mVaR,mean_loss_diff,0.045578472270769194
+C_cs_paired,fwd_SD63,DRT_vs_mVaR,mean_diff,0.004675913372609368
+C_cs_paired,fwd_SD63,DRT_vs_mVaR,NW_t,0.579815543647299
+C_cs_paired,fwd_SD63,DRT_vs_mVaR,p,0.5620390144158539
+C_dm,fwd_SD63,DRT_vs_EWMA,DM_t,-5.936086814839907
+C_dm,fwd_SD63,DRT_vs_EWMA,DM_p,2.9190527326250036e-09
+C_dm,fwd_SD63,DRT_vs_EWMA,mean_loss_diff,-0.015995731911459782
+C_cs_paired,fwd_SD63,DRT_vs_EWMA,mean_diff,-0.03639798321741371
+C_cs_paired,fwd_SD63,DRT_vs_EWMA,NW_t,-7.346786693543958
+C_cs_paired,fwd_SD63,DRT_vs_EWMA,p,2.0302847817068464e-13
+C_dm,fwd_SD63,DRT_vs_FHS,DM_t,-3.442647056166951
+C_dm,fwd_SD63,DRT_vs_FHS,DM_p,0.0005760505770149274
+C_dm,fwd_SD63,DRT_vs_FHS,mean_loss_diff,-0.005961201596755078
+C_cs_paired,fwd_SD63,DRT_vs_FHS,mean_diff,-0.009796978439090907
+C_cs_paired,fwd_SD63,DRT_vs_FHS,NW_t,-2.5884435937536945
+C_cs_paired,fwd_SD63,DRT_vs_FHS,p,0.009641073548986589
+C_pred,fwd_DD63,SD,pooled_spearman,0.6660321890418451
+C_pred,fwd_DD63,DD,pooled_spearman,0.6489857479600303
+C_pred,fwd_DD63,CVaR,pooled_spearman,0.6371029995767877
+C_pred,fwd_DD63,mVaR,pooled_spearman,0.6256689044881263
+C_pred,fwd_DD63,EWMA,pooled_spearman,0.7086805574827175
+C_pred,fwd_DD63,FHS,pooled_spearman,0.6811138541168171
+C_pred,fwd_DD63,DRT,pooled_spearman,0.6682813510465608
+C_pred,fwd_DD63,SD,pooled_spearman,0.6660321890418451
+C_pred,fwd_DD63,SD,cs_spearman_mean,0.7261442370242042
+C_pred,fwd_DD63,SD,cs_months,610.0
+C_pred,fwd_DD63,SD,ts_spearman_mean,0.4642488864804198
+C_pred,fwd_DD63,SD,r2_pooled_loglog,0.4965110756262721
+C_pred,fwd_DD63,SD,r2_within_loglog,0.23313379166864934
+C_pred,fwd_DD63,SD,r2_oos,0.49482179443156615
+C_pred,fwd_DD63,SD,mse_oos,0.15381125005662102
+C_pred,fwd_DD63,SD,n_obs,21648.0
+C_pred,fwd_DD63,DD,pooled_spearman,0.6489857479600303
+C_pred,fwd_DD63,DD,cs_spearman_mean,0.7025468691820259
+C_pred,fwd_DD63,DD,cs_months,610.0
+C_pred,fwd_DD63,DD,ts_spearman_mean,0.4464538602464425
+C_pred,fwd_DD63,DD,r2_pooled_loglog,0.47625464498981135
+C_pred,fwd_DD63,DD,r2_within_loglog,0.21944562342315813
+C_pred,fwd_DD63,DD,r2_oos,0.47318556681292046
+C_pred,fwd_DD63,DD,mse_oos,0.16039881693866592
+C_pred,fwd_DD63,DD,n_obs,21648.0
+C_pred,fwd_DD63,CVaR,pooled_spearman,0.6371029995767877
+C_pred,fwd_DD63,CVaR,cs_spearman_mean,0.6963148774258662
+C_pred,fwd_DD63,CVaR,cs_months,610.0
+C_pred,fwd_DD63,CVaR,ts_spearman_mean,0.4404021558800719
+C_pred,fwd_DD63,CVaR,r2_pooled_loglog,0.462191786976288
+C_pred,fwd_DD63,CVaR,r2_within_loglog,0.20667098521368885
+C_pred,fwd_DD63,CVaR,r2_oos,0.4590448752290791
+C_pred,fwd_DD63,CVaR,mse_oos,0.16470422327884726
+C_pred,fwd_DD63,CVaR,n_obs,21648.0
+C_pred,fwd_DD63,mVaR,pooled_spearman,0.6256689044881263
+C_pred,fwd_DD63,mVaR,cs_spearman_mean,0.6619741550421857
+C_pred,fwd_DD63,mVaR,cs_months,610.0
+C_pred,fwd_DD63,mVaR,ts_spearman_mean,0.4406881618331581
+C_pred,fwd_DD63,mVaR,r2_pooled_loglog,0.32359530828576255
+C_pred,fwd_DD63,mVaR,r2_within_loglog,0.12623433565672745
+C_pred,fwd_DD63,mVaR,r2_oos,0.3117499700739349
+C_pred,fwd_DD63,mVaR,mse_oos,0.20955099861309143
+C_pred,fwd_DD63,mVaR,n_obs,21648.0
+C_pred,fwd_DD63,EWMA,pooled_spearman,0.7086805574827175
+C_pred,fwd_DD63,EWMA,cs_spearman_mean,0.6950747939280825
+C_pred,fwd_DD63,EWMA,cs_months,610.0
+C_pred,fwd_DD63,EWMA,ts_spearman_mean,0.5478816367120506
+C_pred,fwd_DD63,EWMA,r2_pooled_loglog,0.5546520643397038
+C_pred,fwd_DD63,EWMA,r2_within_loglog,0.32896396050610277
+C_pred,fwd_DD63,EWMA,r2_oos,0.5599529273924924
+C_pred,fwd_DD63,EWMA,mse_oos,0.13398082018474686
+C_pred,fwd_DD63,EWMA,n_obs,21648.0
+C_pred,fwd_DD63,FHS,pooled_spearman,0.6811138541168171
+C_pred,fwd_DD63,FHS,cs_spearman_mean,0.6691018789659667
+C_pred,fwd_DD63,FHS,cs_months,610.0
+C_pred,fwd_DD63,FHS,ts_spearman_mean,0.5215523135920724
+C_pred,fwd_DD63,FHS,r2_pooled_loglog,0.5198641026782348
+C_pred,fwd_DD63,FHS,r2_within_loglog,0.29553210282454806
+C_pred,fwd_DD63,FHS,r2_oos,0.5242055593034054
+C_pred,fwd_DD63,FHS,mse_oos,0.14486479600042917
+C_pred,fwd_DD63,FHS,n_obs,21648.0
+C_pred,fwd_DD63,DRT,pooled_spearman,0.6682813510465608
+C_pred,fwd_DD63,DRT,cs_spearman_mean,0.6576564357182104
+C_pred,fwd_DD63,DRT,cs_months,610.0
+C_pred,fwd_DD63,DRT,ts_spearman_mean,0.5085321020088491
+C_pred,fwd_DD63,DRT,r2_pooled_loglog,0.5012397827279378
+C_pred,fwd_DD63,DRT,r2_within_loglog,0.2810514756514432
+C_pred,fwd_DD63,DRT,r2_oos,0.5031525405209687
+C_pred,fwd_DD63,DRT,mse_oos,0.15127479370163335
+C_pred,fwd_DD63,DRT,n_obs,21648.0
+C_dm,fwd_DD63,DRT_vs_SD,DM_t,-0.029101328455748744
+C_dm,fwd_DD63,DRT_vs_SD,DM_p,0.9767837762934521
+C_dm,fwd_DD63,DRT_vs_SD,mean_loss_diff,-0.00018132859947175075
+C_cs_paired,fwd_DD63,DRT_vs_SD,mean_diff,-0.06848780130599363
+C_cs_paired,fwd_DD63,DRT_vs_SD,NW_t,-11.79815420116857
+C_cs_paired,fwd_DD63,DRT_vs_SD,p,3.9896672611668396e-32
+C_dm,fwd_DD63,DRT_vs_DD,DM_t,1.094138834261203
+C_dm,fwd_DD63,DRT_vs_DD,DM_p,0.273894092679963
+C_dm,fwd_DD63,DRT_vs_DD,mean_loss_diff,0.006513114895804557
+C_cs_paired,fwd_DD63,DRT_vs_DD,mean_diff,-0.04489043346381556
+C_cs_paired,fwd_DD63,DRT_vs_DD,NW_t,-8.28287816937894
+C_cs_paired,fwd_DD63,DRT_vs_DD,p,1.2023340898257792e-16
+C_dm,fwd_DD63,DRT_vs_CVaR,DM_t,1.6171803347800988
+C_dm,fwd_DD63,DRT_vs_CVaR,DM_p,0.10583935993263183
+C_dm,fwd_DD63,DRT_vs_CVaR,mean_loss_diff,0.010044510366090137
+C_cs_paired,fwd_DD63,DRT_vs_CVaR,mean_diff,-0.03865844170765567
+C_cs_paired,fwd_DD63,DRT_vs_CVaR,NW_t,-7.292142588903562
+C_cs_paired,fwd_DD63,DRT_vs_CVaR,p,3.050640367617333e-13
+C_dm,fwd_DD63,DRT_vs_mVaR,DM_t,4.229116813860725
+C_dm,fwd_DD63,DRT_vs_mVaR,DM_p,2.3461051158578755e-05
+C_dm,fwd_DD63,DRT_vs_mVaR,mean_loss_diff,0.04210221631214258
+C_cs_paired,fwd_DD63,DRT_vs_mVaR,mean_diff,-0.004317719323975245
+C_cs_paired,fwd_DD63,DRT_vs_mVaR,NW_t,-0.5630292321895684
+C_cs_paired,fwd_DD63,DRT_vs_mVaR,p,0.5734149786329616
+C_dm,fwd_DD63,DRT_vs_EWMA,DM_t,-5.809043104022085
+C_dm,fwd_DD63,DRT_vs_EWMA,DM_p,6.283091298265283e-09
+C_dm,fwd_DD63,DRT_vs_EWMA,mean_loss_diff,-0.01565124819521509
+C_cs_paired,fwd_DD63,DRT_vs_EWMA,mean_diff,-0.03741835820987199
+C_cs_paired,fwd_DD63,DRT_vs_EWMA,NW_t,-7.9401151854082865
+C_cs_paired,fwd_DD63,DRT_vs_EWMA,p,2.0199358388941434e-15
+C_dm,fwd_DD63,DRT_vs_FHS,DM_t,-3.851003942422962
+C_dm,fwd_DD63,DRT_vs_FHS,DM_p,0.00011763460497976524
+C_dm,fwd_DD63,DRT_vs_FHS,mean_loss_diff,-0.006252452376225381
+C_cs_paired,fwd_DD63,DRT_vs_FHS,mean_diff,-0.011445443247756256
+C_cs_paired,fwd_DD63,DRT_vs_FHS,NW_t,-3.1877052792647396
+C_cs_paired,fwd_DD63,DRT_vs_FHS,p,0.0014340662388356523
+C_boot,fwd_ES63,DRT_minus_SD,diff,0.00459560726291286
+C_boot,fwd_ES63,DRT_minus_SD,ci_lo,-0.03202160324675751
+C_boot,fwd_ES63,DRT_minus_SD,ci_hi,0.043681602373287345
+C_boot,fwd_ES63,DRT_minus_DD,diff,0.021182199461018958
+C_boot,fwd_ES63,DRT_minus_DD,ci_lo,-0.01128506100570851
+C_boot,fwd_ES63,DRT_minus_DD,ci_hi,0.054543270525019096
+C_boot,fwd_ES63,DRT_minus_CVaR,diff,0.029116265458729473
+C_boot,fwd_ES63,DRT_minus_CVaR,ci_lo,-0.007341981989459719
+C_boot,fwd_ES63,DRT_minus_CVaR,ci_hi,0.06639826991691697
+C_boot,fwd_ES63,DRT_minus_EWMA,diff,-0.03345211661561809
+C_boot,fwd_ES63,DRT_minus_EWMA,ci_lo,-0.048397258980854625
+C_boot,fwd_ES63,DRT_minus_EWMA,ci_hi,-0.02054167051580889
+C_boot,fwd_ES63,DRT_minus_FHS,diff,-0.012567308154668
+C_boot,fwd_ES63,DRT_minus_FHS,ci_lo,-0.02158277517686137
+C_boot,fwd_ES63,DRT_minus_FHS,ci_hi,-0.005259451850657569
+C_boot,fwd_MDD63,DRT_minus_SD,diff,-0.0016992810396294078
+C_boot,fwd_MDD63,DRT_minus_SD,ci_lo,-0.041271889865751726
+C_boot,fwd_MDD63,DRT_minus_SD,ci_hi,0.04266596748897935
+C_boot,fwd_MDD63,DRT_minus_DD,diff,0.008811243577542982
+C_boot,fwd_MDD63,DRT_minus_DD,ci_lo,-0.026054825495267775
+C_boot,fwd_MDD63,DRT_minus_DD,ci_hi,0.04358867799904932
+C_boot,fwd_MDD63,DRT_minus_CVaR,diff,0.019319245440460542
+C_boot,fwd_MDD63,DRT_minus_CVaR,ci_lo,-0.018529802436876262
+C_boot,fwd_MDD63,DRT_minus_CVaR,ci_hi,0.05824007007536201
+C_boot,fwd_MDD63,DRT_minus_EWMA,diff,-0.026795387605102416
+C_boot,fwd_MDD63,DRT_minus_EWMA,ci_lo,-0.043332194499703484
+C_boot,fwd_MDD63,DRT_minus_EWMA,ci_hi,-0.013279321893543947
+C_boot,fwd_MDD63,DRT_minus_FHS,diff,-0.006183386330375351
+C_boot,fwd_MDD63,DRT_minus_FHS,ci_lo,-0.015967118282618785
+C_boot,fwd_MDD63,DRT_minus_FHS,ci_hi,0.002260657369141541
+C_boot,fwd_MDD252,DRT_minus_SD,diff,0.022193630779673124
+C_boot,fwd_MDD252,DRT_minus_SD,ci_lo,-0.028640484083573513
+C_boot,fwd_MDD252,DRT_minus_SD,ci_hi,0.07359437862335957
+C_boot,fwd_MDD252,DRT_minus_DD,diff,0.03172590802190589
+C_boot,fwd_MDD252,DRT_minus_DD,ci_lo,-0.013080279508654986
+C_boot,fwd_MDD252,DRT_minus_DD,ci_hi,0.08307076507476714
+C_boot,fwd_MDD252,DRT_minus_CVaR,diff,0.03656001542138765
+C_boot,fwd_MDD252,DRT_minus_CVaR,ci_lo,-0.015473871662859025
+C_boot,fwd_MDD252,DRT_minus_CVaR,ci_hi,0.08787048977142715
+C_boot,fwd_MDD252,DRT_minus_EWMA,diff,-0.009368517150261713
+C_boot,fwd_MDD252,DRT_minus_EWMA,ci_lo,-0.03914039933573385
+C_boot,fwd_MDD252,DRT_minus_EWMA,ci_hi,0.025401464691308114
+C_boot,fwd_MDD252,DRT_minus_FHS,diff,-0.0030477716057625837
+C_boot,fwd_MDD252,DRT_minus_FHS,ci_lo,-0.016223474267513315
+C_boot,fwd_MDD252,DRT_minus_FHS,ci_hi,0.010044819581116906
+C_ts_wilcoxon,fwd_ES63,DRT_vs_SD,share_assets_DRT_better,0.6875
+C_ts_wilcoxon,fwd_ES63,DRT_vs_SD,median_diff,0.028945478939103098
+C_ts_wilcoxon,fwd_ES63,DRT_vs_SD,p,3.5705958993048625e-05
+C_ts_wilcoxon,fwd_ES63,DRT_vs_DD,share_assets_DRT_better,0.8958333333333334
+C_ts_wilcoxon,fwd_ES63,DRT_vs_DD,median_diff,0.05314127648988576
+C_ts_wilcoxon,fwd_ES63,DRT_vs_DD,p,4.6910031414881814e-11
+C_ts_wilcoxon,fwd_ES63,DRT_vs_CVaR,share_assets_DRT_better,0.8958333333333334
+C_ts_wilcoxon,fwd_ES63,DRT_vs_CVaR,median_diff,0.05899836399407038
+C_ts_wilcoxon,fwd_ES63,DRT_vs_CVaR,p,1.197761889670801e-10
+C_ts_wilcoxon,fwd_ES63,DRT_vs_EWMA,share_assets_DRT_better,0.25
+C_ts_wilcoxon,fwd_ES63,DRT_vs_EWMA,median_diff,-0.029142428089588113
+C_ts_wilcoxon,fwd_ES63,DRT_vs_EWMA,p,3.5292202298364828e-06
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_SD,share_assets_DRT_better,0.6875
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_SD,median_diff,0.02076298323386172
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_SD,p,0.004499547313045582
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_DD,share_assets_DRT_better,0.8125
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_DD,median_diff,0.034057315448058956
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_DD,p,3.1106858529028614e-06
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_CVaR,share_assets_DRT_better,0.8541666666666666
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_CVaR,median_diff,0.04057657471924081
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_CVaR,p,8.809552554112088e-08
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_EWMA,share_assets_DRT_better,0.25
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_EWMA,median_diff,-0.01885474442502541
+C_ts_wilcoxon,fwd_MDD63,DRT_vs_EWMA,p,4.896416523791913e-05
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_SD,share_assets_DRT_better,0.7708333333333334
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_SD,median_diff,0.06785164954193998
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_SD,p,5.4308813680847834e-05
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_DD,share_assets_DRT_better,0.8541666666666666
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_DD,median_diff,0.061902858581991155
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_DD,p,6.364152937976542e-08
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_CVaR,share_assets_DRT_better,0.8333333333333334
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_CVaR,median_diff,0.04852469795229894
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_CVaR,p,3.8551952741272544e-08
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_EWMA,share_assets_DRT_better,0.6666666666666666
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_EWMA,median_diff,0.024109419697049522
+C_ts_wilcoxon,fwd_MDD252,DRT_vs_EWMA,p,0.19634448189412979
+C_ts_wilcoxon,fwd_worst21,DRT_vs_SD,share_assets_DRT_better,0.8333333333333334
+C_ts_wilcoxon,fwd_worst21,DRT_vs_SD,median_diff,0.036781853225754946
+C_ts_wilcoxon,fwd_worst21,DRT_vs_SD,p,8.853906052763705e-07
+C_ts_wilcoxon,fwd_worst21,DRT_vs_DD,share_assets_DRT_better,0.9166666666666666
+C_ts_wilcoxon,fwd_worst21,DRT_vs_DD,median_diff,0.045937614373907226
+C_ts_wilcoxon,fwd_worst21,DRT_vs_DD,p,6.179590172905591e-11
+C_ts_wilcoxon,fwd_worst21,DRT_vs_CVaR,share_assets_DRT_better,0.9166666666666666
+C_ts_wilcoxon,fwd_worst21,DRT_vs_CVaR,median_diff,0.05444075654565425
+C_ts_wilcoxon,fwd_worst21,DRT_vs_CVaR,p,1.4459544672718039e-11
+C_ts_wilcoxon,fwd_worst21,DRT_vs_EWMA,share_assets_DRT_better,0.20833333333333334
+C_ts_wilcoxon,fwd_worst21,DRT_vs_EWMA,median_diff,-0.031533794579097385
+C_ts_wilcoxon,fwd_worst21,DRT_vs_EWMA,p,4.9636213361736736e-08
+D_backtest,all_assets,Cornish-Fisher,assets,49.0
+D_backtest,all_assets,Cornish-Fisher,mean_rate,0.012001784068081715
+D_backtest,all_assets,Cornish-Fisher,median_rate,0.011902921626217344
+D_backtest,all_assets,Cornish-Fisher,kupiec_pass,0.6938775510204082
+D_backtest,all_assets,Cornish-Fisher,ind_pass,0.14285714285714285
+D_backtest,all_assets,Cornish-Fisher,cc_pass,0.12244897959183673
+D_backtest,all_assets,Cornish-Fisher,es_ratio,
+D_backtest,all_assets,Cornish-Fisher,es_ratio_pass,
+D_backtest,all_assets,Cornish-Fisher,avg_var,0.04633697999384427
+D_backtest,all_assets,Cornish-Fisher,avg_es,
+D_backtest,all_assets,DRT,assets,49.0
+D_backtest,all_assets,DRT,mean_rate,0.011191307626615132
+D_backtest,all_assets,DRT,median_rate,0.01112759643916914
+D_backtest,all_assets,DRT,kupiec_pass,0.9591836734693877
+D_backtest,all_assets,DRT,ind_pass,0.6326530612244898
+D_backtest,all_assets,DRT,cc_pass,0.673469387755102
+D_backtest,all_assets,DRT,es_ratio,1.0103825302594445
+D_backtest,all_assets,DRT,es_ratio_pass,1.0
+D_backtest,all_assets,DRT,avg_var,0.04095416867937684
+D_backtest,all_assets,DRT,avg_es,0.044165864269028
+D_backtest,all_assets,EWMA-Normal,assets,49.0
+D_backtest,all_assets,EWMA-Normal,mean_rate,0.017210490677792928
+D_backtest,all_assets,EWMA-Normal,median_rate,0.01641243483297934
+D_backtest,all_assets,EWMA-Normal,kupiec_pass,0.02040816326530612
+D_backtest,all_assets,EWMA-Normal,ind_pass,0.5510204081632653
+D_backtest,all_assets,EWMA-Normal,cc_pass,0.02040816326530612
+D_backtest,all_assets,EWMA-Normal,es_ratio,1.1672522042957878
+D_backtest,all_assets,EWMA-Normal,es_ratio_pass,0.0
+D_backtest,all_assets,EWMA-Normal,avg_var,0.035038999199939753
+D_backtest,all_assets,EWMA-Normal,avg_es,0.03521153094927202
+D_backtest,all_assets,FHS,assets,49.0
+D_backtest,all_assets,FHS,mean_rate,0.011327025920161705
+D_backtest,all_assets,FHS,median_rate,0.011266831547128332
+D_backtest,all_assets,FHS,kupiec_pass,0.9183673469387755
+D_backtest,all_assets,FHS,ind_pass,0.6938775510204082
+D_backtest,all_assets,FHS,cc_pass,0.6326530612244898
+D_backtest,all_assets,FHS,es_ratio,1.0104688914037276
+D_backtest,all_assets,FHS,es_ratio_pass,1.0
+D_backtest,all_assets,FHS,avg_var,0.04027401020755389
+D_backtest,all_assets,FHS,avg_es,0.04295049935776817
+D_backtest,all_assets,Historical,assets,49.0
+D_backtest,all_assets,Historical,mean_rate,0.015240338654480202
+D_backtest,all_assets,Historical,median_rate,0.015127762972252705
+D_backtest,all_assets,Historical,kupiec_pass,0.02040816326530612
+D_backtest,all_assets,Historical,ind_pass,0.12244897959183673
+D_backtest,all_assets,Historical,cc_pass,0.02040816326530612
+D_backtest,all_assets,Historical,es_ratio,1.0774850273737813
+D_backtest,all_assets,Historical,es_ratio_pass,0.061224489795918366
+D_backtest,all_assets,Historical,avg_var,0.03860012320180037
+D_backtest,all_assets,Historical,avg_es,0.04017518425450846
+D_backtest,all_assets,Normal-SD,assets,49.0
+D_backtest,all_assets,Normal-SD,mean_rate,0.018318477122117736
+D_backtest,all_assets,Normal-SD,median_rate,0.01685217118670638
+D_backtest,all_assets,Normal-SD,kupiec_pass,0.0
+D_backtest,all_assets,Normal-SD,ind_pass,0.08163265306122448
+D_backtest,all_assets,Normal-SD,cc_pass,0.0
+D_backtest,all_assets,Normal-SD,es_ratio,1.2040681183463757
+D_backtest,all_assets,Normal-SD,es_ratio_pass,0.0
+D_backtest,all_assets,Normal-SD,avg_var,0.03604870059068528
+D_backtest,all_assets,Normal-SD,avg_es,0.03622910795585513
+D_backtest,^GSPC,Normal-SD,rate,0.020502370456624803
+D_backtest,^GSPC,Normal-SD,kupiec_p,1.3089798955166734e-46
+D_backtest,^GSPC,Normal-SD,chr_ind_p,3.3702370959112316e-16
+D_backtest,^GSPC,Normal-SD,chr_cc_p,8.263566896892475e-60
+D_backtest,^GSPC,Normal-SD,es_ratio,1.2274525347000955
+D_backtest,^GSPC,Historical,rate,0.016010978956999086
+D_backtest,^GSPC,Historical,kupiec_p,6.951296573571569e-18
+D_backtest,^GSPC,Historical,chr_ind_p,1.2789380326465033e-12
+D_backtest,^GSPC,Historical,chr_cc_p,8.816013137066297e-28
+D_backtest,^GSPC,Historical,es_ratio,1.0707628057009548
+D_backtest,^GSPC,Cornish-Fisher,rate,0.011270065707394162
+D_backtest,^GSPC,Cornish-Fisher,kupiec_p,0.052384019482937486
+D_backtest,^GSPC,Cornish-Fisher,chr_ind_p,4.287561128060268e-11
+D_backtest,^GSPC,Cornish-Fisher,chr_cc_p,5.516331627047936e-11
+D_backtest,^GSPC,Cornish-Fisher,es_ratio,
+D_backtest,^GSPC,EWMA-Normal,rate,0.019670631290027447
+D_backtest,^GSPC,EWMA-Normal,kupiec_p,1.9733169859079585e-40
+D_backtest,^GSPC,EWMA-Normal,chr_ind_p,3.6558918503181124e-05
+D_backtest,^GSPC,EWMA-Normal,chr_cc_p,6.5956225516889165e-43
+D_backtest,^GSPC,EWMA-Normal,es_ratio,1.169099973994903
+D_backtest,^GSPC,FHS,rate,0.011020543957414955
+D_backtest,^GSPC,FHS,kupiec_p,0.11762800485927657
+D_backtest,^GSPC,FHS,chr_ind_p,1.9130475365634237e-06
+D_backtest,^GSPC,FHS,chr_cc_p,3.4937507278224622e-06
+D_backtest,^GSPC,FHS,es_ratio,1.0113625701515003
+D_backtest,^GSPC,DRT,rate,0.010854196124095484
+D_backtest,^GSPC,DRT,kupiec_p,0.1891379480246424
+D_backtest,^GSPC,DRT,chr_ind_p,6.865802937496377e-10
+D_backtest,^GSPC,DRT,chr_cc_p,2.2976790301587987e-09
+D_backtest,^GSPC,DRT,es_ratio,1.0144966842429486
+D_backtest,SPY,Normal-SD,rate,0.023973046520668655
+D_backtest,SPY,Normal-SD,kupiec_p,1.341902777490349e-25
+D_backtest,SPY,Normal-SD,chr_ind_p,1.0288707527701624e-05
+D_backtest,SPY,Normal-SD,chr_cc_p,1.0570156723315604e-28
+D_backtest,SPY,Normal-SD,es_ratio,1.2491234831651217
+D_backtest,SPY,Historical,rate,0.01567966826486977
+D_backtest,SPY,Historical,kupiec_p,3.6533408939840564e-06
+D_backtest,SPY,Historical,chr_ind_p,2.8778945402848916e-06
+D_backtest,SPY,Historical,chr_cc_p,3.88990584404005e-10
+D_backtest,SPY,Historical,es_ratio,1.0743696354478869
+D_backtest,SPY,Cornish-Fisher,rate,0.011014642995982895
+D_backtest,SPY,Cornish-Fisher,kupiec_p,0.37808827954509494
+D_backtest,SPY,Cornish-Fisher,chr_ind_p,0.00034868522236381795
+D_backtest,SPY,Cornish-Fisher,chr_cc_p,0.001132989152476976
+D_backtest,SPY,Cornish-Fisher,es_ratio,
+D_backtest,SPY,EWMA-Normal,rate,0.0204742775690035
+D_backtest,SPY,EWMA-Normal,kupiec_p,5.416070007343993e-16
+D_backtest,SPY,EWMA-Normal,chr_ind_p,0.021883148563223927
+D_backtest,SPY,EWMA-Normal,chr_cc_p,4.03260972606985e-16
+D_backtest,SPY,EWMA-Normal,es_ratio,1.1745026166433103
+D_backtest,SPY,FHS,rate,0.01127381106647661
+D_backtest,SPY,FHS,kupiec_p,0.270385483059329
+D_backtest,SPY,FHS,chr_ind_p,0.019886990703156998
+D_backtest,SPY,FHS,chr_cc_p,0.03621474655887062
+D_backtest,SPY,FHS,es_ratio,1.0100734330522132
+D_backtest,SPY,DRT,rate,0.01075547492548918
+D_backtest,SPY,DRT,kupiec_p,0.5099345651753855
+D_backtest,SPY,DRT,chr_ind_p,0.014125195982292392
+D_backtest,SPY,DRT,chr_cc_p,0.03962420959412886
+D_backtest,SPY,DRT,es_ratio,1.018488574539278
+D_backtest,QQQ,Normal-SD,rate,0.022672064777327937
+D_backtest,QQQ,Normal-SD,kupiec_p,9.096323391251665e-18
+D_backtest,QQQ,Normal-SD,chr_ind_p,8.518532891138179e-05
+D_backtest,QQQ,Normal-SD,chr_cc_p,4.402516346931348e-20
+D_backtest,QQQ,Normal-SD,es_ratio,1.1812956660463978
+D_backtest,QQQ,Historical,rate,0.015546558704453442
+D_backtest,QQQ,Historical,kupiec_p,5.093316274979517e-05
+D_backtest,QQQ,Historical,chr_ind_p,0.004378605665956412
+D_backtest,QQQ,Historical,chr_cc_p,4.707309010207025e-06
+D_backtest,QQQ,Historical,es_ratio,1.0720521315947933
+D_backtest,QQQ,Cornish-Fisher,rate,0.011336032388663968
+D_backtest,QQQ,Cornish-Fisher,kupiec_p,0.3015525013979818
+D_backtest,QQQ,Cornish-Fisher,chr_ind_p,0.00896365952731537
+D_backtest,QQQ,Cornish-Fisher,chr_cc_p,0.019280046718781335
+D_backtest,QQQ,Cornish-Fisher,es_ratio,
+D_backtest,QQQ,EWMA-Normal,rate,0.019757085020242916
+D_backtest,QQQ,EWMA-Normal,kupiec_p,1.0451413403161633e-11
+D_backtest,QQQ,EWMA-Normal,chr_ind_p,0.3387387153783118
+D_backtest,QQQ,EWMA-Normal,chr_cc_p,5.7537547648029165e-11
+D_backtest,QQQ,EWMA-Normal,es_ratio,1.13038263061507
+D_backtest,QQQ,FHS,rate,0.01311740890688259
+D_backtest,QQQ,FHS,kupiec_p,0.018797904966865932
+D_backtest,QQQ,FHS,chr_ind_p,0.4106276955038407
+D_backtest,QQQ,FHS,chr_cc_p,0.045112278596209865
+D_backtest,QQQ,FHS,es_ratio,1.0165286683892618
+D_backtest,QQQ,DRT,rate,0.011012145748987854
+D_backtest,QQQ,DRT,kupiec_p,0.43154596396928724
+D_backtest,QQQ,DRT,chr_ind_p,0.04611649405998333
+D_backtest,QQQ,DRT,chr_cc_p,0.10045989207595031
+D_backtest,QQQ,DRT,es_ratio,1.0203824906578254
+D_backtest,TLT,Normal-SD,rate,0.014274981217129978
+D_backtest,TLT,Normal-SD,kupiec_p,0.0032193786034449678
+D_backtest,TLT,Normal-SD,chr_ind_p,0.02782879986117901
+D_backtest,TLT,Normal-SD,chr_cc_p,0.0011607290461200979
+D_backtest,TLT,Normal-SD,es_ratio,1.0859314911107518
+D_backtest,TLT,Historical,rate,0.014650638617580767
+D_backtest,TLT,Historical,kupiec_p,0.0014253435022110485
+D_backtest,TLT,Historical,chr_ind_p,0.03342350518879002
+D_backtest,TLT,Historical,chr_cc_p,0.0006436640424149286
+D_backtest,TLT,Historical,es_ratio,1.0577263772307692
+D_backtest,TLT,Cornish-Fisher,rate,0.012396694214876033
+D_backtest,TLT,Cornish-Fisher,kupiec_p,0.09022118303927364
+D_backtest,TLT,Cornish-Fisher,chr_ind_p,0.009923223387513955
+D_backtest,TLT,Cornish-Fisher,chr_cc_p,0.008569678995547308
+D_backtest,TLT,Cornish-Fisher,es_ratio,
+D_backtest,TLT,EWMA-Normal,rate,0.012772351615326822
+D_backtest,TLT,EWMA-Normal,kupiec_p,0.051244604695980474
+D_backtest,TLT,EWMA-Normal,chr_ind_p,0.18463737837223348
+D_backtest,TLT,EWMA-Normal,chr_cc_p,0.06203362068636078
+D_backtest,TLT,EWMA-Normal,es_ratio,1.051501023853749
+D_backtest,TLT,FHS,rate,0.012396694214876033
+D_backtest,TLT,FHS,kupiec_p,0.09022118303927364
+D_backtest,TLT,FHS,chr_ind_p,0.19797334343988798
+D_backtest,TLT,FHS,chr_cc_p,0.1039502889727356
+D_backtest,TLT,FHS,es_ratio,1.0129420064911119
+D_backtest,TLT,DRT,rate,0.012396694214876033
+D_backtest,TLT,DRT,kupiec_p,0.09022118303927364
+D_backtest,TLT,DRT,chr_ind_p,0.8441304153069299
+D_backtest,TLT,DRT,chr_cc_p,0.23350785226286822
+D_backtest,TLT,DRT,es_ratio,1.0073626939096674
+D_backtest,GLD,Normal-SD,rate,0.02066638549135386
+D_backtest,GLD,Normal-SD,kupiec_p,1.0816997717990862e-10
+D_backtest,GLD,Normal-SD,chr_ind_p,0.001017645393479292
+D_backtest,GLD,Normal-SD,chr_cc_p,4.053071337640941e-12
+D_backtest,GLD,Normal-SD,es_ratio,1.1834414145573955
+D_backtest,GLD,Historical,rate,0.014972585407001266
+D_backtest,GLD,Historical,kupiec_p,0.0013485073309494533
+D_backtest,GLD,Historical,chr_ind_p,8.374893077925695e-06
+D_backtest,GLD,Historical,chr_cc_p,2.8733489484912897e-07
+D_backtest,GLD,Historical,es_ratio,1.0615894489225046
+D_backtest,GLD,Cornish-Fisher,rate,0.01180936313791649
+D_backtest,GLD,Cornish-Fisher,kupiec_p,0.22343952460425048
+D_backtest,GLD,Cornish-Fisher,chr_ind_p,0.0004644703707823275
+D_backtest,GLD,Cornish-Fisher,chr_cc_p,0.00104091761829052
+D_backtest,GLD,Cornish-Fisher,es_ratio,
+D_backtest,GLD,EWMA-Normal,rate,0.018768452129902996
+D_backtest,GLD,EWMA-Normal,kupiec_p,6.274258771329149e-08
+D_backtest,GLD,EWMA-Normal,chr_ind_p,0.801031867720158
+D_backtest,GLD,EWMA-Normal,chr_cc_p,4.254355882313272e-07
+D_backtest,GLD,EWMA-Normal,es_ratio,1.171180062159997
+D_backtest,GLD,FHS,rate,0.010965837199493884
+D_backtest,GLD,FHS,kupiec_p,0.5104072935852751
+D_backtest,GLD,FHS,chr_ind_p,0.6026896861241997
+D_backtest,GLD,FHS,chr_cc_p,0.7032132160405729
+D_backtest,GLD,FHS,es_ratio,1.0160469863520671
+D_backtest,GLD,DRT,rate,0.010122311261071278
+D_backtest,GLD,DRT,kupiec_p,0.9326743536737654
+D_backtest,GLD,DRT,chr_ind_p,0.5137762032118891
+D_backtest,GLD,DRT,chr_cc_p,0.8051289710025391
+D_backtest,GLD,DRT,es_ratio,1.021052137084745
+D_backtest,NVDA,Normal-SD,rate,0.014338649911390366
+D_backtest,NVDA,Normal-SD,kupiec_p,0.0012569554477337489
+D_backtest,NVDA,Normal-SD,chr_ind_p,0.18599807209535307
+D_backtest,NVDA,Normal-SD,chr_cc_p,0.0022953649177132455
+D_backtest,NVDA,Normal-SD,es_ratio,1.1920592812738626
+D_backtest,NVDA,Historical,rate,0.014660866763331722
+D_backtest,NVDA,Historical,kupiec_p,0.0005586280314625925
+D_backtest,NVDA,Historical,chr_ind_p,0.5854609677319846
+D_backtest,NVDA,Historical,chr_cc_p,0.002235581112496523
+D_backtest,NVDA,Historical,es_ratio,1.0907371169002114
+D_backtest,NVDA,Cornish-Fisher,rate,0.013371999355566296
+D_backtest,NVDA,Cornish-Fisher,kupiec_p,0.011112176014175032
+D_backtest,NVDA,Cornish-Fisher,chr_ind_p,0.005682095913230989
+D_backtest,NVDA,Cornish-Fisher,chr_cc_p,0.0008692565846579765
+D_backtest,NVDA,Cornish-Fisher,es_ratio,
+D_backtest,NVDA,EWMA-Normal,rate,0.013371999355566296
+D_backtest,NVDA,EWMA-Normal,kupiec_p,0.011112176014175032
+D_backtest,NVDA,EWMA-Normal,chr_ind_p,0.9142733580128809
+D_backtest,NVDA,EWMA-Normal,chr_cc_p,0.039579701316087665
+D_backtest,NVDA,EWMA-Normal,es_ratio,1.2082434875834054
+D_backtest,NVDA,FHS,rate,0.011922023521830192
+D_backtest,NVDA,FHS,kupiec_p,0.13964028412491114
+D_backtest,NVDA,FHS,chr_ind_p,0.9012129442983984
+D_backtest,NVDA,FHS,chr_cc_p,0.333316310355435
+D_backtest,NVDA,FHS,es_ratio,1.0201692143901915
+D_backtest,NVDA,DRT,rate,0.011116481391976801
+D_backtest,NVDA,DRT,kupiec_p,0.3851332752342267
+D_backtest,NVDA,DRT,chr_ind_p,0.21289863797567396
+D_backtest,NVDA,DRT,chr_cc_p,0.31571079731836516
+D_backtest,NVDA,DRT,es_ratio,1.0085741816538945
+D_backtest,BTC-USD,Normal-SD,rate,0.019510854630392965
+D_backtest,BTC-USD,Normal-SD,kupiec_p,3.371367956286737e-07
+D_backtest,BTC-USD,Normal-SD,chr_ind_p,0.06313264075893492
+D_backtest,BTC-USD,Normal-SD,chr_cc_p,3.9723521089918473e-07
+D_backtest,BTC-USD,Normal-SD,es_ratio,1.2437943290704616
+D_backtest,BTC-USD,Historical,rate,0.012640835394339104
+D_backtest,BTC-USD,Historical,kupiec_p,0.12403486352055315
+D_backtest,BTC-USD,Historical,chr_ind_p,0.13858660032235118
+D_backtest,BTC-USD,Historical,chr_cc_p,0.10232512671889064
+D_backtest,BTC-USD,Historical,es_ratio,1.0515778245387617
+D_backtest,BTC-USD,Cornish-Fisher,rate,0.011266831547128332
+D_backtest,BTC-USD,Cornish-Fisher,kupiec_p,0.45157239064389276
+D_backtest,BTC-USD,Cornish-Fisher,chr_ind_p,0.48722617178570893
+D_backtest,BTC-USD,Cornish-Fisher,chr_cc_p,0.591748172407635
+D_backtest,BTC-USD,Cornish-Fisher,es_ratio,
+D_backtest,BTC-USD,EWMA-Normal,rate,0.01923605386095081
+D_backtest,BTC-USD,EWMA-Normal,kupiec_p,6.758776386807478e-07
+D_backtest,BTC-USD,EWMA-Normal,chr_ind_p,0.5916597787559208
+D_backtest,BTC-USD,EWMA-Normal,chr_cc_p,3.7820836030771512e-06
+D_backtest,BTC-USD,EWMA-Normal,es_ratio,1.3001003054930123
+D_backtest,BTC-USD,FHS,rate,0.011266831547128332
+D_backtest,BTC-USD,FHS,kupiec_p,0.45157239064389276
+D_backtest,BTC-USD,FHS,chr_ind_p,0.48722617178570893
+D_backtest,BTC-USD,FHS,chr_cc_p,0.591748172407635
+D_backtest,BTC-USD,FHS,es_ratio,0.9899591619806495
+D_backtest,BTC-USD,DRT,rate,0.009618026930475405
+D_backtest,BTC-USD,DRT,kupiec_p,0.8157102111680851
+D_backtest,BTC-USD,DRT,chr_ind_p,0.3492711077358832
+D_backtest,BTC-USD,DRT,chr_cc_p,0.6280021776714366
+D_backtest,BTC-USD,DRT,es_ratio,0.9846861803327142
+E_portfolio,16-ETF universe,EqualWeight,CAGR,0.08632912194751463
+E_portfolio,16-ETF universe,EqualWeight,Vol,0.14174951460471982
+E_portfolio,16-ETF universe,EqualWeight,Sharpe,0.5565188686350361
+E_portfolio,16-ETF universe,EqualWeight,Sortino,0.7789254491343927
+E_portfolio,16-ETF universe,EqualWeight,MaxDD,0.42010993890113146
+E_portfolio,16-ETF universe,EqualWeight,Calmar,0.20549173907506935
+E_portfolio,16-ETF universe,EqualWeight,CVaR95_daily,0.021573554819985206
+E_portfolio,16-ETF universe,EqualWeight,CVaR99_daily,0.03797692050104947
+E_portfolio,16-ETF universe,EqualWeight,Worst_day,0.07933507123628025
+E_portfolio,16-ETF universe,EqualWeight,Worst_month,0.14459670679684056
+E_portfolio,16-ETF universe,EqualWeight,Ulcer,8.05521285823742
+E_portfolio,16-ETF universe,EqualWeight,Skew,-0.3090107067612419
+E_portfolio,16-ETF universe,EqualWeight,ExKurt,11.868817526641026
+E_portfolio,16-ETF universe,EqualWeight,Turnover_pa,0.31946892990237113
+E_portfolio,16-ETF universe,MinVar (SD),CAGR,0.04720618650164132
+E_portfolio,16-ETF universe,MinVar (SD),Vol,0.06371042471524394
+E_portfolio,16-ETF universe,MinVar (SD),Sharpe,0.5362547717209191
+E_portfolio,16-ETF universe,MinVar (SD),Sortino,0.7493434289618782
+E_portfolio,16-ETF universe,MinVar (SD),MaxDD,0.19995391772166637
+E_portfolio,16-ETF universe,MinVar (SD),Calmar,0.23608532925747325
+E_portfolio,16-ETF universe,MinVar (SD),CVaR95_daily,0.009388388863430257
+E_portfolio,16-ETF universe,MinVar (SD),CVaR99_daily,0.01587128093986558
+E_portfolio,16-ETF universe,MinVar (SD),Worst_day,0.04196397749410308
+E_portfolio,16-ETF universe,MinVar (SD),Worst_month,0.06898029685225571
+E_portfolio,16-ETF universe,MinVar (SD),Ulcer,4.959753234603893
+E_portfolio,16-ETF universe,MinVar (SD),Skew,-0.4588878091578775
+E_portfolio,16-ETF universe,MinVar (SD),ExKurt,11.073113637613666
+E_portfolio,16-ETF universe,MinVar (SD),Turnover_pa,1.0943588821233292
+E_portfolio,16-ETF universe,MinSemiVar (DD),CAGR,0.04983339730415448
+E_portfolio,16-ETF universe,MinSemiVar (DD),Vol,0.06441163329350975
+E_portfolio,16-ETF universe,MinSemiVar (DD),Sharpe,0.5700168489199084
+E_portfolio,16-ETF universe,MinSemiVar (DD),Sortino,0.7992498251036488
+E_portfolio,16-ETF universe,MinSemiVar (DD),MaxDD,0.1921897714793448
+E_portfolio,16-ETF universe,MinSemiVar (DD),Calmar,0.2592926612096535
+E_portfolio,16-ETF universe,MinSemiVar (DD),CVaR95_daily,0.00955235010960322
+E_portfolio,16-ETF universe,MinSemiVar (DD),CVaR99_daily,0.015875746555510713
+E_portfolio,16-ETF universe,MinSemiVar (DD),Worst_day,0.04059163835614765
+E_portfolio,16-ETF universe,MinSemiVar (DD),Worst_month,0.07393304896952257
+E_portfolio,16-ETF universe,MinSemiVar (DD),Ulcer,4.743173323259125
+E_portfolio,16-ETF universe,MinSemiVar (DD),Skew,-0.39433457366388724
+E_portfolio,16-ETF universe,MinSemiVar (DD),ExKurt,9.615733731491423
+E_portfolio,16-ETF universe,MinSemiVar (DD),Turnover_pa,1.3616661703405812
+E_portfolio,16-ETF universe,MinCVaR95 (hist),CAGR,0.0519513862965042
+E_portfolio,16-ETF universe,MinCVaR95 (hist),Vol,0.06499534886222587
+E_portfolio,16-ETF universe,MinCVaR95 (hist),Sharpe,0.5964914323096483
+E_portfolio,16-ETF universe,MinCVaR95 (hist),Sortino,0.8393472664769266
+E_portfolio,16-ETF universe,MinCVaR95 (hist),MaxDD,0.19019106876412284
+E_portfolio,16-ETF universe,MinCVaR95 (hist),Calmar,0.2731536587605746
+E_portfolio,16-ETF universe,MinCVaR95 (hist),CVaR95_daily,0.009583169349102902
+E_portfolio,16-ETF universe,MinCVaR95 (hist),CVaR99_daily,0.015821953473302414
+E_portfolio,16-ETF universe,MinCVaR95 (hist),Worst_day,0.04064853666199664
+E_portfolio,16-ETF universe,MinCVaR95 (hist),Worst_month,0.07760047255080715
+E_portfolio,16-ETF universe,MinCVaR95 (hist),Ulcer,4.509176660409756
+E_portfolio,16-ETF universe,MinCVaR95 (hist),Skew,-0.36434444766218477
+E_portfolio,16-ETF universe,MinCVaR95 (hist),ExKurt,9.855447131954428
+E_portfolio,16-ETF universe,MinCVaR95 (hist),Turnover_pa,1.829958057392612
+E_portfolio,16-ETF universe,MinVar-EWMA,CAGR,0.05293131014960517
+E_portfolio,16-ETF universe,MinVar-EWMA,Vol,0.062058793835815376
+E_portfolio,16-ETF universe,MinVar-EWMA,Sharpe,0.6366989714426093
+E_portfolio,16-ETF universe,MinVar-EWMA,Sortino,0.9054317138896879
+E_portfolio,16-ETF universe,MinVar-EWMA,MaxDD,0.17964373951462687
+E_portfolio,16-ETF universe,MinVar-EWMA,Calmar,0.29464600487953785
+E_portfolio,16-ETF universe,MinVar-EWMA,CVaR95_daily,0.008964949332406701
+E_portfolio,16-ETF universe,MinVar-EWMA,CVaR99_daily,0.014806545242370524
+E_portfolio,16-ETF universe,MinVar-EWMA,Worst_day,0.03678746654156462
+E_portfolio,16-ETF universe,MinVar-EWMA,Worst_month,0.06539222360424202
+E_portfolio,16-ETF universe,MinVar-EWMA,Ulcer,4.142933027839652
+E_portfolio,16-ETF universe,MinVar-EWMA,Skew,-0.18565119597040478
+E_portfolio,16-ETF universe,MinVar-EWMA,ExKurt,9.89226755738982
+E_portfolio,16-ETF universe,MinVar-EWMA,Turnover_pa,4.3997176038300925
+E_portfolio,16-ETF universe,MinFHS-ES,CAGR,0.052136438989095035
+E_portfolio,16-ETF universe,MinFHS-ES,Vol,0.06367082450229117
+E_portfolio,16-ETF universe,MinFHS-ES,Sharpe,0.6103159449303447
+E_portfolio,16-ETF universe,MinFHS-ES,Sortino,0.8609585694456962
+E_portfolio,16-ETF universe,MinFHS-ES,MaxDD,0.20308967772228514
+E_portfolio,16-ETF universe,MinFHS-ES,Calmar,0.25671634114457054
+E_portfolio,16-ETF universe,MinFHS-ES,CVaR95_daily,0.009417431082679813
+E_portfolio,16-ETF universe,MinFHS-ES,CVaR99_daily,0.015683525838910414
+E_portfolio,16-ETF universe,MinFHS-ES,Worst_day,0.03658816946056609
+E_portfolio,16-ETF universe,MinFHS-ES,Worst_month,0.058689169983302425
+E_portfolio,16-ETF universe,MinFHS-ES,Ulcer,5.547147101454448
+E_portfolio,16-ETF universe,MinFHS-ES,Skew,-0.2816570834510966
+E_portfolio,16-ETF universe,MinFHS-ES,ExKurt,8.89991127660015
+E_portfolio,16-ETF universe,MinFHS-ES,Turnover_pa,3.710701503427279
+E_portfolio,16-ETF universe,MinDRT,CAGR,0.0542110771912776
+E_portfolio,16-ETF universe,MinDRT,Vol,0.06515540433985235
+E_portfolio,16-ETF universe,MinDRT,Sharpe,0.628120339552253
+E_portfolio,16-ETF universe,MinDRT,Sortino,0.8850296178984218
+E_portfolio,16-ETF universe,MinDRT,MaxDD,0.17131591633280874
+E_portfolio,16-ETF universe,MinDRT,Calmar,0.3164392331531173
+E_portfolio,16-ETF universe,MinDRT,CVaR95_daily,0.009699189402573777
+E_portfolio,16-ETF universe,MinDRT,CVaR99_daily,0.016176436193405017
+E_portfolio,16-ETF universe,MinDRT,Worst_day,0.03817763130001228
+E_portfolio,16-ETF universe,MinDRT,Worst_month,0.0626592880947805
+E_portfolio,16-ETF universe,MinDRT,Ulcer,4.380730166172051
+E_portfolio,16-ETF universe,MinDRT,Skew,-0.3041495812318886
+E_portfolio,16-ETF universe,MinDRT,ExKurt,8.43147810123928
+E_portfolio,16-ETF universe,MinDRT,Turnover_pa,3.410777097999018
+E_subperiod,GFC 2008-09,EqualWeight,value,-0.2297809941795752
+E_subperiod,GFC 2008-09 MDD,EqualWeight,value,0.40662032257556
+E_subperiod,COVID 2020,EqualWeight,value,-0.07830749277962412
+E_subperiod,COVID 2020 MDD,EqualWeight,value,0.2789008847642571
+E_subperiod,2022 bear,EqualWeight,value,-0.1032707661655019
+E_subperiod,2022 bear MDD,EqualWeight,value,0.18171922001243235
+E_subperiod,GFC 2008-09,MinVar (SD),value,-0.04534984550468546
+E_subperiod,GFC 2008-09 MDD,MinVar (SD),value,0.13087474749308625
+E_subperiod,COVID 2020,MinVar (SD),value,-0.02667108334234125
+E_subperiod,COVID 2020 MDD,MinVar (SD),value,0.16330364886223558
+E_subperiod,2022 bear,MinVar (SD),value,-0.12267087732384852
+E_subperiod,2022 bear MDD,MinVar (SD),value,0.18422664721889748
+E_subperiod,GFC 2008-09,MinSemiVar (DD),value,-0.048225089877834915
+E_subperiod,GFC 2008-09 MDD,MinSemiVar (DD),value,0.13083157041945204
+E_subperiod,COVID 2020,MinSemiVar (DD),value,-0.017378268791028106
+E_subperiod,COVID 2020 MDD,MinSemiVar (DD),value,0.1563306754800684
+E_subperiod,2022 bear,MinSemiVar (DD),value,-0.10738804034010174
+E_subperiod,2022 bear MDD,MinSemiVar (DD),value,0.17128568175167724
+E_subperiod,GFC 2008-09,MinCVaR95 (hist),value,-0.03914440806368802
+E_subperiod,GFC 2008-09 MDD,MinCVaR95 (hist),value,0.13566891490990873
+E_subperiod,COVID 2020,MinCVaR95 (hist),value,-0.017154973884504043
+E_subperiod,COVID 2020 MDD,MinCVaR95 (hist),value,0.1541570134331811
+E_subperiod,2022 bear,MinCVaR95 (hist),value,-0.12041081786426433
+E_subperiod,2022 bear MDD,MinCVaR95 (hist),value,0.18223343307203432
+E_subperiod,GFC 2008-09,MinVar-EWMA,value,-0.007004705802900912
+E_subperiod,GFC 2008-09 MDD,MinVar-EWMA,value,0.13485621717104623
+E_subperiod,COVID 2020,MinVar-EWMA,value,-0.001237556726852107
+E_subperiod,COVID 2020 MDD,MinVar-EWMA,value,0.1414345559220206
+E_subperiod,2022 bear,MinVar-EWMA,value,-0.11400201488817474
+E_subperiod,2022 bear MDD,MinVar-EWMA,value,0.17427161588576423
+E_subperiod,GFC 2008-09,MinFHS-ES,value,-0.01785678893933018
+E_subperiod,GFC 2008-09 MDD,MinFHS-ES,value,0.12721678378038137
+E_subperiod,COVID 2020,MinFHS-ES,value,0.008340287863549012
+E_subperiod,COVID 2020 MDD,MinFHS-ES,value,0.14028181799395645
+E_subperiod,2022 bear,MinFHS-ES,value,-0.14081660120473838
+E_subperiod,2022 bear MDD,MinFHS-ES,value,0.19573542965505053
+E_subperiod,GFC 2008-09,MinDRT,value,-0.020304348810018746
+E_subperiod,GFC 2008-09 MDD,MinDRT,value,0.11609838297350272
+E_subperiod,COVID 2020,MinDRT,value,0.01595192940380441
+E_subperiod,COVID 2020 MDD,MinDRT,value,0.1374803466012503
+E_subperiod,2022 bear,MinDRT,value,-0.10141363954570948
+E_subperiod,2022 bear MDD,MinDRT,value,0.16053822058157363
+E_boot,EqualWeight,MinDRT_minus,CVaR95,-0.01187436541741143
+E_boot,EqualWeight,MinDRT_minus,CVaR95_ci_lo,-0.015210694571787408
+E_boot,EqualWeight,MinDRT_minus,CVaR95_ci_hi,-0.00894485824251121
+E_boot,EqualWeight,MinDRT_minus,MaxDD,-0.24879402256832273
+E_boot,EqualWeight,MinDRT_minus,MaxDD_ci_lo,-0.33361429952185545
+E_boot,EqualWeight,MinDRT_minus,MaxDD_ci_hi,-0.03830192391874926
+E_boot,EqualWeight,MinDRT_minus,Sharpe,0.07160147091721691
+E_boot,EqualWeight,MinDRT_minus,Sharpe_ci_lo,-0.3484341810063046
+E_boot,EqualWeight,MinDRT_minus,Sharpe_ci_hi,0.47098642645953104
+E_boot,EqualWeight,MinDRT_minus,Vol,-0.07659411026486747
+E_boot,EqualWeight,MinDRT_minus,Vol_ci_lo,-0.09279531992219095
+E_boot,EqualWeight,MinDRT_minus,Vol_ci_hi,-0.06018769112469504
+E_boot,EqualWeight,MinDRT_minus,Sortino,0.10610416876402917
+E_boot,EqualWeight,MinDRT_minus,Sortino_ci_lo,-0.5031280361055569
+E_boot,EqualWeight,MinDRT_minus,Sortino_ci_hi,0.7148530540029197
+E_boot,MinVar (SD),MinDRT_minus,CVaR95,0.0003108005391435197
+E_boot,MinVar (SD),MinDRT_minus,CVaR95_ci_lo,-9.494784068602422e-05
+E_boot,MinVar (SD),MinDRT_minus,CVaR95_ci_hi,0.0007085853381925943
+E_boot,MinVar (SD),MinDRT_minus,MaxDD,-0.028638001388857637
+E_boot,MinVar (SD),MinDRT_minus,MaxDD_ci_lo,-0.08205414562972388
+E_boot,MinVar (SD),MinDRT_minus,MaxDD_ci_hi,0.024535466223135047
+E_boot,MinVar (SD),MinDRT_minus,Sharpe,0.09186556783133393
+E_boot,MinVar (SD),MinDRT_minus,Sharpe_ci_lo,-0.11020681603843673
+E_boot,MinVar (SD),MinDRT_minus,Sharpe_ci_hi,0.2597368233172519
+E_boot,MinVar (SD),MinDRT_minus,Vol,0.0014449796246084196
+E_boot,MinVar (SD),MinDRT_minus,Vol_ci_lo,-0.0007978158713405856
+E_boot,MinVar (SD),MinDRT_minus,Vol_ci_hi,0.00372666813168664
+E_boot,MinVar (SD),MinDRT_minus,Sortino,0.1356861889365436
+E_boot,MinVar (SD),MinDRT_minus,Sortino_ci_lo,-0.16153856436237474
+E_boot,MinVar (SD),MinDRT_minus,Sortino_ci_hi,0.38278743673060395
+E_boot,MinSemiVar (DD),MinDRT_minus,CVaR95,0.00014683929297055684
+E_boot,MinSemiVar (DD),MinDRT_minus,CVaR95_ci_lo,-0.00020293747083388098
+E_boot,MinSemiVar (DD),MinDRT_minus,CVaR95_ci_hi,0.000512863427693687
+E_boot,MinSemiVar (DD),MinDRT_minus,MaxDD,-0.020873855146536058
+E_boot,MinSemiVar (DD),MinDRT_minus,MaxDD_ci_lo,-0.06731805438519889
+E_boot,MinSemiVar (DD),MinDRT_minus,MaxDD_ci_hi,0.03303709412154614
+E_boot,MinSemiVar (DD),MinDRT_minus,Sharpe,0.058103490632344545
+E_boot,MinSemiVar (DD),MinDRT_minus,Sharpe_ci_lo,-0.12754512843648946
+E_boot,MinSemiVar (DD),MinDRT_minus,Sharpe_ci_hi,0.2203588340299505
+E_boot,MinSemiVar (DD),MinDRT_minus,Vol,0.0007437710463426006
+E_boot,MinSemiVar (DD),MinDRT_minus,Vol_ci_lo,-0.0011193288993122247
+E_boot,MinSemiVar (DD),MinDRT_minus,Vol_ci_hi,0.002668604323346093
+E_boot,MinSemiVar (DD),MinDRT_minus,Sortino,0.08577979279477299
+E_boot,MinSemiVar (DD),MinDRT_minus,Sortino_ci_lo,-0.1862914395057179
+E_boot,MinSemiVar (DD),MinDRT_minus,Sortino_ci_hi,0.31764895429291445
+E_boot,MinCVaR95 (hist),MinDRT_minus,CVaR95,0.00011602005347087496
+E_boot,MinCVaR95 (hist),MinDRT_minus,CVaR95_ci_lo,-0.00024989312743496064
+E_boot,MinCVaR95 (hist),MinDRT_minus,CVaR95_ci_hi,0.0005085742824349831
+E_boot,MinCVaR95 (hist),MinDRT_minus,MaxDD,-0.0188751524313141
+E_boot,MinCVaR95 (hist),MinDRT_minus,MaxDD_ci_lo,-0.05997809648658868
+E_boot,MinCVaR95 (hist),MinDRT_minus,MaxDD_ci_hi,0.033078387891286296
+E_boot,MinCVaR95 (hist),MinDRT_minus,Sharpe,0.0316289072426047
+E_boot,MinCVaR95 (hist),MinDRT_minus,Sharpe_ci_lo,-0.15062369153731292
+E_boot,MinCVaR95 (hist),MinDRT_minus,Sharpe_ci_hi,0.19107189563462693
+E_boot,MinCVaR95 (hist),MinDRT_minus,Vol,0.0001600554776264862
+E_boot,MinCVaR95 (hist),MinDRT_minus,Vol_ci_lo,-0.0018890530977471879
+E_boot,MinCVaR95 (hist),MinDRT_minus,Vol_ci_hi,0.0023157910878740264
+E_boot,MinCVaR95 (hist),MinDRT_minus,Sortino,0.04568235142149524
+E_boot,MinCVaR95 (hist),MinDRT_minus,Sortino_ci_lo,-0.21965683284146748
+E_boot,MinCVaR95 (hist),MinDRT_minus,Sortino_ci_hi,0.2721653651162013
+E_boot,MinVar-EWMA,MinDRT_minus,CVaR95,0.0007342400701670759
+E_boot,MinVar-EWMA,MinDRT_minus,CVaR95_ci_lo,0.000359225874712458
+E_boot,MinVar-EWMA,MinDRT_minus,CVaR95_ci_hi,0.0011407361768635991
+E_boot,MinVar-EWMA,MinDRT_minus,MaxDD,-0.008327823181818128
+E_boot,MinVar-EWMA,MinDRT_minus,MaxDD_ci_lo,-0.04512339661294444
+E_boot,MinVar-EWMA,MinDRT_minus,MaxDD_ci_hi,0.039223826484773607
+E_boot,MinVar-EWMA,MinDRT_minus,Sharpe,-0.008578631890356347
+E_boot,MinVar-EWMA,MinDRT_minus,Sharpe_ci_lo,-0.17138086482115983
+E_boot,MinVar-EWMA,MinDRT_minus,Sharpe_ci_hi,0.14788116756168412
+E_boot,MinVar-EWMA,MinDRT_minus,Vol,0.0030966105040369785
+E_boot,MinVar-EWMA,MinDRT_minus,Vol_ci_lo,0.0014411531518173533
+E_boot,MinVar-EWMA,MinDRT_minus,Vol_ci_hi,0.004786910911789839
+E_boot,MinVar-EWMA,MinDRT_minus,Sortino,-0.020402095991266078
+E_boot,MinVar-EWMA,MinDRT_minus,Sortino_ci_lo,-0.2719476898079456
+E_boot,MinVar-EWMA,MinDRT_minus,Sortino_ci_hi,0.20932144227075763
+E_boot,MinFHS-ES,MinDRT_minus,CVaR95,0.00028175831989396376
+E_boot,MinFHS-ES,MinDRT_minus,CVaR95_ci_lo,6.505525139284372e-06
+E_boot,MinFHS-ES,MinDRT_minus,CVaR95_ci_hi,0.0005768597322533637
+E_boot,MinFHS-ES,MinDRT_minus,MaxDD,-0.03177376138947641
+E_boot,MinFHS-ES,MinDRT_minus,MaxDD_ci_lo,-0.04078725402846858
+E_boot,MinFHS-ES,MinDRT_minus,MaxDD_ci_hi,0.023898625031184614
+E_boot,MinFHS-ES,MinDRT_minus,Sharpe,0.017804394621908304
+E_boot,MinFHS-ES,MinDRT_minus,Sharpe_ci_lo,-0.0906495751345018
+E_boot,MinFHS-ES,MinDRT_minus,Sharpe_ci_hi,0.13409381687001784
+E_boot,MinFHS-ES,MinDRT_minus,Vol,0.0014845798375611868
+E_boot,MinFHS-ES,MinDRT_minus,Vol_ci_lo,0.00024380703925245897
+E_boot,MinFHS-ES,MinDRT_minus,Vol_ci_hi,0.0028037471703155226
+E_boot,MinFHS-ES,MinDRT_minus,Sortino,0.024071048452725674
+E_boot,MinFHS-ES,MinDRT_minus,Sortino_ci_lo,-0.1377569300945777
+E_boot,MinFHS-ES,MinDRT_minus,Sortino_ci_hi,0.1933245448506345
