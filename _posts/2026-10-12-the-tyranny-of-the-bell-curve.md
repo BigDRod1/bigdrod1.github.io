@@ -4,7 +4,7 @@ title: "The Tyranny of the Bell Curve"
 summary: "Why finance still measures risk with standard deviation, what that misses, and how a proposed alternative measure performs against it."
 date: 2026-10-12
 # Publish on Monday Oct 12, 2026: change the next line from false to true.
-published: false
+published: true
 author: Diego Rodriguez
 image: /assets/brand/banner.png
 description: >-
